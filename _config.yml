@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth E. Tavares"
+title                    : "Elizabeth E. Tavares,PhD"
 title_separator          : "-"
 subtitle                 : "Shakespeare & Repertory"
-name                     : "Elizabeth E. Tavares, PhD"
+name                     : "Elizabeth E. Tavares"
 description              : "Assistant professor of English with the Hudson Strode Program in Renaissance Studies."
-url                      : "https://elizetavares.github.io"
+url                      : "https://elizetavares.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "elizetavares/elizetavares.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,81 +102,79 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elizabeth E. Tavares, PhD"
+  name             : "Elizabeth E. Tavares"
   avatar           : "/assets/images/etavares-bio.jpg"
   bio              : "Assistant professor of English in the Hudson Strode Program in Renaissance Studies at the University of Alabama"
-  location         : # "Somewhere"
-  email            : eetavares@ua.edu
+  location         : # "Northport, AL"
+  employer         : # "The University of Alabama"
+
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:elizabethtavares@mac.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      icon: "fas fa-fw fa-envelope"
+      url: mailto:eetavares@ua.edu
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter"
       url: "https://twitter.com/ElizETavares"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/elizetavares"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Humanities Commons"
+      icon: "fas fa-comment"
+      url: "https://mla.hcommons.org/members/etavares/"
+    - label: "ORCiD"
+      icon: "fab fa-orcid"
+      url: "http://orcid.org/0000-0001-9410-190X"
+    - label: "Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=O9QXlvgAAAAJ"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCucCvCPhq7FxXft7G3XITow"
+    - label: "Wikipedia"
+      icon: "fab fa-wikipedia-w"
+      url: "https://en.wikipedia.org/wiki/User:ElizETavares"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ElizETavares"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/elizetavares"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:elizabethtavares@mac.com
+      url: mailto:eetavares@ua.edu
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/elizetavares/"
+    - label: "GitHub"
+      icon: "fab fa-github-alt"
+      url: "https://github.com/elizetavares"
+
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - package-lock.json
-  - Rakefile
-  - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -204,6 +202,76 @@ kramdown:
   enable_coderay: false
 
 
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -214,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -269,45 +337,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-    
-defaults:
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-    
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile:
-      read_time:
-      #comments: true
-      share:
-      related:
