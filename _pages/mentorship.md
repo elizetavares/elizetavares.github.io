@@ -3,15 +3,52 @@ title: Mentorship
 permalink: /mentorship/
 toc: true
 toc_label: " "
-toc_icon: "star"
+toc_icon: "bookmark"
 toc_sticky: true
 ---
 
 # Recent Theses
 
+## Graduate
+
+Bell, C., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
+Bird, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
+Morris, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
+Pate, T., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
+Labe, K., “’How the fishes live in the sea’: Shakespeare’s Daughters and the Market of Romance,” committee member, MA English with a concentration in Renaissance Studies, University of Alabama (8 Mar 2022)
+
+Fulton, C., “The Educational Visual ‘Language’ in Graphic Novel Adaptations of Shakespeare,” committee member, MA English with a concentration in Renaissance Studies, University of Alabama (3 Mar 2021)
+
+## Undergraduate
+
+Fuller J., chair, BA English with Honors, University of Alabama (in progress)
+
+Stewart, R., "'Their heirs may prosper while mine bleeds’: Legal Renege, Witnessing, and Child Corpses in *Two Lamentable Tragedies* and *A Yorkshire Tragedy*," chair, BA English Literature, Pacific University (2021)
+
+Giordano, M., "The Good King: Henry VII of England," second reader, [Medieval & Early Modern European Studies minor](https://memes.as.ua.edu/minor-requirements/), University of Alabama (2021)
+
+Gauer, G., “‘Scandalously bifurcated garments’: Ecocriticism, American Pioneers, and novelizing Women of the West,” chair, BA English Literature, Pacific University (2020)
+
+Jones, A., “From ‘The Rood’ to ‘Whispered World’: Medieval Poetry, Affect, and the Modern Video Game,” chair, BA English Literature & Music, Pacific University (2020)
+
+McFarlane, M., “‘Or keepe company with girls’: Editing Performance and Gender in John Lyly’s *Gallathea* (1585),” chair, BA English Literature & Creative Writing, Pacific University (2020)
+
+Riper, K., “‘Strike old griefs into other countries’: Editing Grief and Mourning in Early Modern English Drama,” chair, BA English Literature, Pacific University (2019)
+
+Ballou, S., “Tables, Legs, and Gestural Curves: Embodiment and the Victorian Novel,” chair, BA English Literature & Dance, Pacific University (2018)
+
+Dolgin, T., “‘Being dead does little for ones acumens’: Fanfiction, Affect Theory, and Sherlock Holmes,” chair, BA English Literature & Outdoor Leadership, Pacific University (2018)
+
+Elder, R., “‘Even if everything were to fall from under me, I would still prevail’: The Phenomenology of Literary Impressionism in Heinrich von Kleist," co-chair, BA English Literature & German, Pacific University (2018)
+
 # Student Success
 
 ## Prizes
+
 Green, H., “Faith, the cornerstone of honesty and constancy in trust, marriage, and friendship” (EN 433, Spring 2021), 2022 Lee David Black and Florence Weinberg Black Memorial Scholarship, University of Alabama
 
 Skinkle, A., “Sticks and Stones Hurt, But So Do Words” (EN 333, Fall 2020), 2021 [John Blanke Prize for the best essay on medieval or early modern literature and race](https://strode.english.ua.edu/undergraduate/), Hudson Strode Program in Renaissance Studies, University of Alabama
@@ -37,6 +74,7 @@ Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in To
 Elliot, C., “Plastic Paradise: Environment and Implication in William Shakespeare’s *As You Like It*” (ENGL 340, Fall 2016), 2017 Awards in Literary Scholarship (honorable mention), Pacific University
 
 ## Publications
+
 Bush, K., “Bite Down,” [*The Rectangle: Sigma Tau Delta Journal of Creative Writing*](https://www.english.org/pdf/publications/rectangle-review20.pdf) 95 (2020): 54–60
 
 Riper, K., “Some Kind of Permanent,” [*The Rectangle: Sigma Tau Delta Journal of Creative Writing*](https://www.english.org/pdf/publications/rectangle-review20.pdf) 95 (2020): 64–68
@@ -60,6 +98,7 @@ Stewart, R., “[The Original Scarlet Letter: Flyting, Green Girdles, and Mediev
 Riper, K., “‘Round about her tomb they go’: Editorial Emendation in *Much Ado About Nothing*,” [*The Review: Sigma Tau Delta Journal of Critical Writing*](https://www.english.org/pdf/publications/rectangle-review19.pdf) 16 (2019): 176–81
 
 ## Presentations
+
 Stewart, R., & J. Marx., “Hayma’s Journey: Rohingya Refugee Discourse in the United States Elementary Classroom,” National Conference of Undergraduate Research, Montana State University (26 Mar 2020)
 
 McFarlane, M., “Over the Rainbow,” Sigma Tau Delta International English Honors Society annual convention (25 Mar 2020)
@@ -107,6 +146,7 @@ Riper, K., “Hero’s Epitaph: Penance and the Politics of Editorial Emendation
 Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in Tom Stoppard’s *Arcadia*,” Northwest Undergraduate Conference on Literature, University of Portland (25 Mar 2017)
 
 ## Internships
+
 Gauer, G., Editorial assistant, *International Journal for Undergraduate Research & Creative Activities* (Spring 2020)
 
 Whittington, P., Dramaturgy apprentice, [Orphic Theatre](https://www.orphicplays.org/internship) (Winter 2020)
@@ -134,11 +174,13 @@ Ballou, S., MFA Residency intern, Pacific University (Summer 2017)
 Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://www.opsfest.org/apprentice-program.html) (Summer 2017)
 
 ## Research Assistants
+
 Stewart, R., Alabama Shakespeare Project, English Department, University of Alabama (2021-22)
 
 Pate, T., *SyllaBits*, Collaborative Arts Research Initiative, University of Alabama (Summer 2021)
 
 ## Placements
+
 Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and education, having been accepted to
 •    Arizona State University, Arizona Center for Medieval and Renaissance Studies
 •    Boston College
