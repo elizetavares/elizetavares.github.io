@@ -1,72 +1,159 @@
 ---
 title: Mentorship
 permalink: /mentorship/
-layout: single
 toc: true
 toc_label: " "
 toc_icon: "star"
 toc_sticky: true
 ---
 
-## The Goodreads Classics
+# Recent Theses
 
-A website featuring data visualizations about "classic" books according to Goodreads users.
+# Student Success
 
-Link: [https://melaniewalsh.github.io/Goodreads-Classics/](https://melaniewalsh.github.io/Goodreads-Classics/)
+## Prizes
+Green, H., “Faith, the cornerstone of honesty and constancy in trust, marriage, and friendship” (EN 433, Spring 2021), 2022 Lee David Black and Florence Weinberg Black Memorial Scholarship, University of Alabama
 
-## Tweets of a Native Son
+Skinkle, A., “Sticks and Stones Hurt, But So Do Words” (EN 333, Fall 2020), 2021 [John Blanke Prize for the best essay on medieval or early modern literature and race](https://strode.english.ua.edu/undergraduate/), Hudson Strode Program in Renaissance Studies, University of Alabama
 
-A website featuring data visualizations about James Baldwin’s 21st-century digital afterlives that can be explored by students, fans, and scholars: [#BlackLivesMatter tweets](http://tweetsofanativeson.com/BlackLivesMatter-Baldwin/), [popular YouTube videos](http://tweetsofanativeson.com/YouTube/), [library circulation data](http://tweetsofanativeson.com/Seattle-Public-Library/), and more.
+Hines, R., “‘Thou Art No Man, Though of a Man’s Complexion’: Flipping Venus across the English and Italian Renaissance” (EN 433, Fall 2020), 2021 Outstanding Research Essay by an English Major, University of Alabama
 
-Link: [http://tweetsofanativeson.com/](http://tweetsofanativeson.com/)
+Lockhart, K., “‘Morality and Vengeance’: An Analyzation of the Thames and London Citizens” (EN 433, Fall 2020), 2021 Outstanding Research Essay by an English Major, University of Alabama
 
-## Mapping the Librotraficante Movement
+Mccain, K., “‘Beyond reason’: Cupid and Heteronormativity in John Lyly’s *Gallathea* and *Sapho and Phao*” (EN 433, Fall 2020), 2021 William March Memorial Scholarship, University of Alabama
 
-An interactive “story map” of the [2012 Librotraficante caravan](http://www.librotraficante.com/Caravan-Sked.html) that combines a geographic map with a corresponding multimedia narrative. The multimedia narrative contains textual descriptions of stops along the route as well as snippets of some of the digital content produced there, including YouTube videos, photos, and social media posts. When users scroll through the multimedia narrative along the right-hand side of the page, the map responsively zooms to each corresponding location, helping to capture the simultaneity of these digital and physical networks.
+McCarthy, C., “Beauty in Bitterness: Shifted Connotation and Characterization in *Much Ado About Nothing*” (ENGL 340, Fall 2019), 2020 Awards in Literary Scholarship (2nd place), Pacific University
 
-Link: [https://melaniewalsh.github.io/mapping-the-librotraficante-movement/](https://melaniewalsh.github.io/mapping-the-librotraficante-movement/)
+Whittington, P., “Bye-bye Birdie: Ecodidacticism and Augury in *Macbeth* and *The Seagull*” (ENGL 340, Fall 2019), 2020 Awards in Literary Scholarship (honorable mention), Pacific University
 
-## Sample Social Network Datasets For Teaching With Gephi (and Other Tools Like It)
+McCarthy, C., “Humor Me on This: The Impact of Comedy in a University Setting” (ENGW 180, Spring 2018), 2019 Awards in College Writing (1st place), Pacific University
 
-Network datasets include: characters in the Game of Thrones universe; modernist authors who published together in journals; characters in the Marvel Universe; seventeenth-century Quakers; books about U.S. politics that were co-purchased around the 2004 presidential election; and people in TrumpWorld. A sample Gephi project created with the Game of Thrones network data [can be viewed and explored as an interactive web network here.](https://melaniewalsh.org/got-network/)
+Bush, K., “‘The Sweetest Savor’: Active Male Penetrators and Societal Anxieties in Arthurian Legend” (ENGL 323, Fall 2018), 2019 Awards in Literary Scholarship (2nd place), Pacific University
 
-Link: [https://github.com/melaniewalsh/sample-social-network-datasets](https://github.com/melaniewalsh/sample-social-network-datasets)
+Ballou, S., “The Sacrifice of the Poet in *The Tragedy of Julius Caesar*” (ENGL 323, Spring 2017), 2018 Awards in Literary Scholarship (1st place), Pacific University
 
-## Mapping the Birth (and Death) Places of Nobel Laureates
+Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in Tom Stoppard’s *Arcadia*” (ENGL 340, Fall 2016), 2017 Awards in Literary Scholarship (1st place), Pacific University
 
-Geospatial dataset for the birth and death places of Nobel Prize Winners from 1901-2017. Find the [dataset](https://github.com/melaniewalsh/geospatial-lab/tree/master/sample-datasets/nobel-prize-winners); a sample [QGIS/Leaflet project](https://melaniewalsh.org/nobel-laureate-map/#2/18.1/9.2); and a sample [Google Maps project](https://www.google.com/maps/d/edit?mid=1OLTmzKCDMHLTEzJBkPxmOFfETv3B1U0l).
+Elliot, C., “Plastic Paradise: Environment and Implication in William Shakespeare’s *As You Like It*” (ENGL 340, Fall 2016), 2017 Awards in Literary Scholarship (honorable mention), Pacific University
 
-Link: [https://github.com/melaniewalsh/geospatial-lab](https://github.com/melaniewalsh/geospatial-lab)
+## Publications
+Bush, K., “Bite Down,” [*The Rectangle: Sigma Tau Delta Journal of Creative Writing*](https://www.english.org/pdf/publications/rectangle-review20.pdf) 95 (2020): 54–60
 
-## Lil' Microfiction Generator 
+Riper, K., “Some Kind of Permanent,” [*The Rectangle: Sigma Tau Delta Journal of Creative Writing*](https://www.english.org/pdf/publications/rectangle-review20.pdf) 95 (2020): 64–68
 
-A React application that tells randomly-generated stories about Academia 📚, Hollywood ⭐, and the NBA 🏀.  
+Bush, K., “[‘The Sweetest Savor’: Active Male Penetrators and Societal Anxieties in Arthurian Legend](http://doi.org/10.7710/2168-0620.1138),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–7
 
-Link: [https://melaniewalsh.github.io/lil-microfiction-generator/](https://melaniewalsh.github.io/lil-microfiction-generator/)
+Jones, A., “[‘With middal smal and wel ymake’: Objectification and Power in Medieval English Love Songs](http://doi.org/10.7710/2168-0620.1139),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–7
 
-## Twitter Bots
+McCarthy, C., “[Who’s to Blame?: Chivalric Projection and the Gender of Guilt](http://doi.org/10.7710/2168-0620.1140),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–7.
 
-### @SoSweetBot 
+McFarlane, M., “[‘She had snatched their trophy’: ‘Lanval,’ ‘Beowulf,’ and the Weaver-cum-Warrior](http://doi.org/10.7710/2168-0620.1137),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–6
 
-A Twitter bot collaboration with John Ladd that retweets parodies of William Carlos Williams's 1934 poem "This Is Just to Say."
+Riper, K., “[Them’s Flyting Words: The Boundaries of Acceptable Affronts in Medieval Poetry](http://doi.org/10.7710/2168-0620.1141),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–6
 
-Link: [https://twitter.com/sosweetbot](https://twitter.com/sosweetbot)
+Roth, K., “[The Beard Conceals and Reveals: Covert Hair in Fourteenth-Century Chivalric Romance](http://doi.org/10.7710/2168-0620.1134),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–6
 
-### @TweetsNativeSon 
+Savini, R., “[The —ick of It: Phalluses, Swords, and Character Development in ‘Beowulf’ and ‘Morte d’Arthur’](http://doi.org/10.7710/2168-0620.1135),” *International Journal of Undergraduate Research & Creative Inquiry* 11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–6
 
-A Twitter bot that retweets mentions of "James Baldwin."  
+Stewart, R., “[The Original Scarlet Letter: Flyting, Green Girdles, and Medieval Order in England](http://doi.org/10.7710/2168-0620.1132),” *International Journal of Undergraduate Research & Creative Inquiry *11, no. 3, Special Issue: Fight or Flyte - Pride and Masculinity in Medieval England (2019): 1–6
 
-Link: [https://twitter.com/tweetsnativeson](https://twitter.com/tweetsnativeson)
+Riper, K., “‘Round about her tomb they go’: Editorial Emendation in *Much Ado About Nothing*,” [*The Review: Sigma Tau Delta Journal of Critical Writing*](https://www.english.org/pdf/publications/rectangle-review19.pdf) 16 (2019): 176–81
 
-### @SongofKanye Bot
+## Presentations
+Stewart, R., & J. Marx., “Hayma’s Journey: Rohingya Refugee Discourse in the United States Elementary Classroom,” National Conference of Undergraduate Research, Montana State University (26 Mar 2020)
 
-A Twitter bot that tweets Walt Whitman's "Song of Myself" from Kanye West's perspective, line-by-line, twice every day.  
+McFarlane, M., “Over the Rainbow,” Sigma Tau Delta International English Honors Society annual convention (25 Mar 2020)
 
-Link: [https://twitter.com/SongOfKanye](https://twitter.com/SongOfKanye)
+Gauer, G., “Shadow Blocks, Subjugated Rocks: Staging Women and the West in *Quilters* (1982),” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
 
-### @SignBunnyBot
+McCarthy, C., “Political Stakes in Wooden Places: Power and Forests in *Macbeth* (1606), *The Cherry Orchard* (1904), and *Bengal Tiger at the Baghdad Zoo* (2009),” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
 
-A Twitter bot that retweets #HistorianSignBunny memes.  
+McFarlane, M., “‘This pile of rot’: Decomposition, Birds, and Disease in Anne Carson’s *Antigonick* (2012),” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
 
-Link: [https://twitter.com/signbunnybot](https://twitter.com/signbunnybot)
+Nelson, E., “‘Philosophy suits our Sex, just as Jack Boots would do’: Philosophy, Gender, and Susanna Centlivre’s *The Basset Table* (1705),” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
 
+Stewart, R., “‘The Air is Delicate’: Law, Wind, and the Weird Sisters in William Shakespeare’s *Macbeth* (1606).” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
+
+Whittington, P., “Bye-bye Birdie: Ecodidacticism and Augury in *Macbeth* (1606)” Northwest Undergraduate Conference in Literature, University of Portland (14 Mar 2020)
+
+McFarlane, M., “‘Will you Learne?’: Enskillment in Boy Companies of the Later Renaissance and *Gallathea*,” Emerging Scholars Symposium, Mid-America Theatre Conference (5 Mar 2020)
+
+McCarthy, C., “Beauty in Bitterness: Shifted Connotations and Characterization in *Much Ado About Nothing*,” Northwest Undergraduate Conference in the Humanities, North Idaho University (9 Nov 2019)
+
+McFarlane, M., “‘Walking on Ayre’: Lost Set and Stage Directions in John Lyly’s *Gallathea*,” Northwest Undergraduate Conference in the Humanities, North Idaho University (9 Nov 2019)
+
+Stewart, R., “‘Sermons in Stones’: Courts, Knowledge, and Nature in William Shakespeare’s *As You Like It*,” Northwest Undergraduate Conference in the Humanities, North Idaho University (9 Nov 2019)
+
+Bush, K., “‘The Sweetest Savor’: Active Male Penetrators and Societal Anxieties in Arthurian Legend,” All-Ireland Conference of Undergraduate Research, University of Limerick (28 Mar 2019)
+
+Nelson, E., “Bringing Morals to the Table: English Medieval Leadership from ‘Beowulf’ to ‘Sir Gawain,’” Northwest Undergraduate Conference on Literature, Seattle University (23 Mar 2019)
+
+Riper, K., “Them’s Flyting Words: The Boundaries of Acceptable Affronts in Medieval Poetry,” Northwest Undergraduate Conference on Literature, Seattle University (23 Mar 2019)
+
+Stewart, R., “The Original Scarlet Letter: Flyting, Green Girdles, and Medieval Order in England,” Northwest Undergraduate Conference on Literature, Seattle University (23 Mar 2019)
+
+Bush, K., ‘“We’ll cook him up in a stew’: Stepmothers and Primogeniture in the Brothers Grimm’s ‘The Juniper Tree,’” Northwest Undergraduate Conference in the Humanities, North Idaho College (3 Nov 2018)
+
+Riper, K., “‘Wisdom and Blood Combating’: Humoral Theory and Violence in Shakespeare’s *Much Ado About Nothing* and *Julius Caesar*,” Northwest Undergraduate Conference in the Humanities, North Idaho College (3 Nov 2018)
+
+Ballou, S., “The Sacrifice of the Poet in *The Tragedy of Julius Caesar*.” Northwest Undergraduate Conference on Literature, University of Portland (24 Mar 2018)
+
+Dolgin, T., “Detection and Deduction: A Study in the History of Sherlock Holmes,” Pacific University Undergraduate Research Conference (14 Nov 2017)
+
+Ballou, S., “The Dichotomy of Life and Death and Its Effect on Nell in *The Old Curiosity Shop*,” Northwest Undergraduate Conference in the Humanities, North Idaho College (4 Nov 2017)
+
+Riper, K., “Hero’s Epitaph: Penance and the Politics of Editorial Emendation in William Shakespeare’s *Much Ado About Nothing*,” Northwest Undergraduate Conference in the Humanities, North Idaho College (4 Nov 2017)
+
+Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in Tom Stoppard’s *Arcadia*,” Northwest Undergraduate Conference on Literature, University of Portland (25 Mar 2017)
+
+## Internships
+Gauer, G., Editorial assistant, *International Journal for Undergraduate Research & Creative Activities* (Spring 2020)
+
+Whittington, P., Dramaturgy apprentice, [Orphic Theatre](https://www.orphicplays.org/internship) (Winter 2020)
+
+Riper, K., Dramaturgy apprentice, [Orphic Theatre](https://www.orphicplays.org/internship) (Winter 2019)
+
+Stewart, R., MFA Residency intern, Pacific University (Winter 2018)
+
+Bush, K., Social Media Management intern, [*Silk Road Review*](https://silkroad.pacificu.edu/) (2018-19)
+
+Zmuda, A., Acting apprentice, [Original Practice Shakespeare Festival](https://www.opsfest.org/apprentice-program.html) (Summer 2018)
+
+Addison, K., Oregon Book Awards intern, [Literary Arts](https://literary-arts.org/2019/05/internship-opening-this-summer-oregon-book-awards-fellowships/) (Spring 2018)
+
+Ballou, S., @LiteraryArts Event intern, [Literary Arts](https://literary-arts.org/2020/02/internship-opening-intern-for-literary-arts-events-spring-2020/) (Spring 2018)
+
+Stewart, R., Community Outreach intern for State Representative Susan McLain, Democratic Party of Oregon (Spring 2018)
+
+Riper, K., MFA Residency intern, Pacific University (Winter 2017)
+
+Dolgin, T., @LiteraryArts Event intern, [Literary Arts](https://literary-arts.org/2020/02/internship-opening-intern-for-literary-arts-events-spring-2020/) (Fall 2017)
+
+Ballou, S., MFA Residency intern, Pacific University (Summer 2017)
+
+Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://www.opsfest.org/apprentice-program.html) (Summer 2017)
+
+## Research Assistants
+Stewart, R., Alabama Shakespeare Project, English Department, University of Alabama (2021-22)
+
+Pate, T., *SyllaBits*, Collaborative Artts Research Initiative, University of Alabama (Summer 2021)
+
+## Placements
+Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and education, having been accepted to
+•    Arizona State University, Arizona Center for Medieval and Renaissance Studies
+•    Boston College
+•    Emerson College
+•    McGill University
+•    Ohio State University
+•    Portland State University
+•    SUNY-Buffalo
+•    University of Alabama, Hudson Strode Program in Renaissance Studies
+•    University of California, Santa Cruz
+•    University of Connecticut
+•    University of Illinois, Chicago
+•    University of Illinois, Urbana-Champaign (Library Science)
+•    University of Iowa
+•    University of Maryland
+•    University of Minnesota
+•    University of Oklahoma
+•    University of Virginia
