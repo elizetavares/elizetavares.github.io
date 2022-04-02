@@ -2,38 +2,6 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
-title: " "
-header:
-  overlay_color: "#000"
-  overlay_filter: "0"
-  overlay_image:  /assets/images/banner-scarrons.png
-  #actions:
-  #  - label: "Download"
-    #  url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Scarron's comical romance; or, a facetious history of a company of strowling stage-players (London: J. C. and William Crooke, 1676), Wing S831, Huntington Library"
-excerpt: " <br>  <br>  <br> "
-#intro:
-#  - excerpt: "Hi, I'm Elizabeth Tavares, and I'm an assistant professor of English with the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/)."
-feature_row:
-  - image_path: /images/twitter_prof.jpg
-    alt: "placeholder image 1"
-    title: "Teaching"
-    excerpt: ""
-    image_max_size: 150px
-  - image_path: /images/got-network.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Research"
-    excerpt: ""
-    # url: "#test-link"
-    image_max_size: 150px
-  - image_path: /images/baldwin-logo-black-background.png
-    title: "Digital Projects"
-    excerpt: ""
-    image_max_size: 100px
----
 
 ---
 
