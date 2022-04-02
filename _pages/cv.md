@@ -9,29 +9,39 @@ toc_sticky: true
 
 Research Interests
 ---
-Data science, digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
+Forthcoming
 
-Employment
+Professional History
 ---
-Assistant Teaching Professor, Information School, University of Washington, July 2021 - Present
+### Appointments
 
-Postdoctoral Associate and Visiting Lecturer in Information Science, Cornell University, August 2019 – June 2021
+Assistant Professor & Associate Graduate Faculty, English, University of Alabama, 2020 - Present
 
-Education
+Assistant Professor & Associate Graduate Faculty, English, Pacific University, 2016 - 2020
+
+### Education
+
+PhD, English, University of Illinois at Urbana-Champaign, 2016
+
+MA, English, University of Illinois at Urbana-Champaign, 2010
+
+BA, English & History, DePaul University, 2009  
+*magna cum laude*
+
+### Certifications
+
+Program External Reviewer, Association of Departments of English, 2020
+
+Early Modern English Paleography, Folger Shakespeare Library, 2019
+
+Professional Editing, University of Chicago, 2018
+
+Criticism & Interpretive Theory, University of Illinois at Urbana-Champaign, 2016
+
+Publications
 ---
-Ph.D., English & American Literature, Washington University in St. Louis, MO, 2013 – 2019
 
->   Dissertation: *Postwar Redux: The Recirculation of Postwar American Literature and the Rise of Networked Readers in the Twenty-First Century*  
-<br> Advisor: William J. Maxwell
-
-M.A., English, Washington University in St. Louis, MO, 2015  
-
-B.A., English, Washington University in St. Louis, MO, 2013  
-*summa cum laude*
-
-## Publications
-
-### Peer-Reviewed Articles & Book Chapters
+### Articles
 
 Melanie Walsh, “The Challenges and Possibilities of Social Media Data: New Directions in Quantitative Literary Studies,” *Debates in Digital Humanities*, University of Minnesota Press, forthcoming.
 
