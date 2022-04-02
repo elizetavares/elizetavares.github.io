@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth E. Tavares"
+title                    : "Elizabeth E. Tavares, PhD"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "Elizabeth E. Tavares, PhD"
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Elizabeth E. Tavares, PhD"
   avatar           : "/assets/images/etavares-bio.jpg"
-  bio              : "Assistant professor of English in the Hudson Strode Program in Renaissance Studies at the University of Alabama"
+  bio              : "Assistant professor of English at the University of Alabama"
   location         : # "Northport, AL"
   employer         : # "The University of Alabama"
 
