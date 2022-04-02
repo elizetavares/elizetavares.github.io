@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Melanie Walsh:
+  name        : "Elizabeth E. Tavares"
+  bio         : "Assistant professor of English at the University of Alabama"
+  avatar      : "/images/etavares-bio.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:eetavares@ua.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://english.ua.edu/people/etavares/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/elizetavares"
