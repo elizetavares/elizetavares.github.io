@@ -133,6 +133,12 @@ author:
     - label: "Wikipedia"
       icon: "fab fa-wikipedia-w"
       url: "https://en.wikipedia.org/wiki/User:ElizETavares"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
+    - label: "GitHub"
+      icon: "fab fa-github-alt"
+      url: "https://github.com/elizetavares"
 
 
 # Site Footer
