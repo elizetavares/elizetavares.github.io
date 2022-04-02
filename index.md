@@ -12,10 +12,10 @@ header:
   #actions:
   #  - label: "Download"
     #  url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Scarron's comical romance; or, a facetious history ofr a company of strowling stage-players (London: J. C. and William Crooke, 1676), Wing S831, Huntington Library"
+  caption: "Scarron's comical romance; or, a facetious history of a company of strowling stage-players (London: J. C. and William Crooke, 1676), Wing S831, Huntington Library"
 excerpt: " <br>  <br>  <br> "
 #intro:
-#  - excerpt: "Hi, I'm Elizabeth Tavares, and I'm aan assistant professor of English with the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background."
+#  - excerpt: "Hi, I'm Elizabeth Tavares, and I'm an assistant professor of English with the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/)."
 feature_row:
   - image_path: /images/twitter_prof.jpg
     alt: "placeholder image 1"

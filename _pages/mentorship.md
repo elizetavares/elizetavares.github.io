@@ -136,7 +136,7 @@ Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://w
 ## Research Assistants
 Stewart, R., Alabama Shakespeare Project, English Department, University of Alabama (2021-22)
 
-Pate, T., *SyllaBits*, Collaborative Artts Research Initiative, University of Alabama (Summer 2021)
+Pate, T., *SyllaBits*, Collaborative Arts Research Initiative, University of Alabama (Summer 2021)
 
 ## Placements
 Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and education, having been accepted to
