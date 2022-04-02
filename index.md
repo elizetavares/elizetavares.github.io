@@ -3,6 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: " "
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image:  /assets/images/banner-scarrons.png
+  caption: "Scarron's comical romance; or "
+excerpt: " <br>  <br>  <br> "
+
 ---
 
 Elizabeth E. Tavares, PhD, [(she/her)](https://pronoun.is/she) is an interdisciplinary scholar of early modern English drama, whose research foci include playing companies, theatre history, and Shakespeare in performance. She is currently at work on her first book manuscript, *Playing the Repertory in Early Modern England*, which, in tracing the development of the sixteenth-century repertory system, demonstrates how four major tacks—triptych blocking, up-cycled props, tailored soundscapes, and racialized prosthetics—were employed by companies to distinguish their relative house styles and, by extension, cultivate returner audiences.
