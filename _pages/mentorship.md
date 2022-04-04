@@ -181,7 +181,7 @@ Pate, T., *SyllaBits*, Collaborative Arts Research Initiative, University of Ala
 
 ## Placements
 
-Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and education, having been accepted to
+Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, law, and education, having been accepted to
 •    Arizona State University, Arizona Center for Medieval and Renaissance Studies
 •    Boston College
 •    Emerson College
@@ -199,3 +199,5 @@ Recent undergraduate advisees have gone on to pursue graduate studies in literat
 •    University of Minnesota
 •    University of Oklahoma
 •    University of Virginia
+•    Vanderbilt University Law
+
