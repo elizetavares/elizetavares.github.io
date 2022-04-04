@@ -1,6 +1,11 @@
 ---
 title: Mentorship
-permalink: /mentorship/
+layout: single
+author_profile: true
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
+header:
+  image: 
+  teaser: 
 toc: true
 toc_label: " "
 toc_icon: "bookmark"
@@ -184,22 +189,22 @@ Pate, T., *SyllaBits*, Collaborative Arts Research Initiative, University of Ala
 ## Placements
 
 Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, law, and education, having been accepted to
-•    Arizona State University, Arizona Center for Medieval and Renaissance Studies
-•    Boston College
-•    Emerson College
-•    McGill University
-•    Ohio State University
-•    Portland State University
-•    SUNY-Buffalo
-•    University of Alabama, Hudson Strode Program in Renaissance Studies
-•    University of California, Santa Cruz
-•    University of Connecticut
-•    University of Illinois, Chicago
-•    University of Illinois, Urbana-Champaign (Library Science)
-•    University of Iowa
-•    University of Maryland
-•    University of Minnesota
-•    University of Oklahoma
-•    University of Virginia
-•    Vanderbilt University Law
+* Arizona State University (Arizona Center for Medieval and Renaissance Studies)
+* Boston College
+* Emerson College (MFA Publishing)
+* McGill University
+* Ohio State University
+* Portland State University
+* SUNY-Buffalo
+* University of Alabama (Hudson Strode Program in Renaissance Studies)
+* University of California, Santa Cruz
+* University of Connecticut
+* University of Illinois, Chicago
+* University of Illinois, Urbana-Champaign (Library Science)
+* University of Iowa
+* University of Maryland
+* University of Minnesota
+* University of Oklahoma
+* University of Virginia
+* Vanderbilt University (Law)
 

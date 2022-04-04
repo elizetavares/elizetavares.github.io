@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Dramaturgy"
-    url: /dramaturgy/
-  - title: "Mentorship"
-    url: /mentorship/
   - title: "Teaching"
     url: /teaching/
+  - title: "Dramaturgy"
+    url: /dramaturgy/
+  - title: "Blog"
+    url: "http://bitethumbnails.com/"
   - title: "CV"
     url: /cv/
   # - title: "Sitemap"

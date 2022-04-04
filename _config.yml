@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "sunrise", "dirt", "neon", "air", "aqua", "contrast", "dark", "default", "mint", "plum",
 
 # Site Settings
 locale                   : "en-US"
@@ -216,27 +216,24 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  dramaturgy:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
-  # _posts
+  # _dramaturgy
   - scope:
       path: ""
-      type: posts
+      type: dramaturgy
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
+      comments: false
   # _pages
   - scope:
       path: ""
@@ -244,15 +241,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -261,24 +249,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _research
+      comments: false
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comments: false
 
 
 # Sass/SCSS
