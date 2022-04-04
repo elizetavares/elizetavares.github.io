@@ -13,6 +13,8 @@ excerpt: " <br>  <br>  <br> "
 
 ---
 
-Under construction - coming soon in spring 2022!
+Pardon the dust — revised content forthcoming this summer!
+
+Need to get in touch before then? Check out my [department profile](https://english.ua.edu/people/etavares/) or drop me a line via [email](mailto:eetavares@ua.edu). I look forward to hearing from you!
 
 ---
