@@ -2,7 +2,7 @@
 title: CV Alternative
 permalink: /cv-alt/
 toc: true
-toc_label: " "
+toc_label: "&nbsp;Contents"
 toc_icon: "star"
 toc_sticky: true
 ---

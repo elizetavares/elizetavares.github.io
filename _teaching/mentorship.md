@@ -1,5 +1,6 @@
 ---
 title: Mentorship
+permalink: /mentorship/
 layout: single
 author_profile: true
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
@@ -7,7 +8,7 @@ header:
   image: 
   teaser: 
 toc: true
-toc_label: " "
+toc_label: "&nbsp;Contents"
 toc_icon: "bookmark"
 toc_sticky: true
 ---

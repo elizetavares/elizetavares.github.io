@@ -1,11 +1,16 @@
 ---
 title: Courses
+permalink: /courses/
 layout: single
 author_profile: true
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
 header:
   image: 
   teaser: 
+toc: true
+toc_label: "&nbsp;Contents"
+toc_icon: "bookmark"
+toc_sticky: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac mi luctus, interdum magna non, sodales lorem. Donec ultrices elit urna, a efficitur felis vulputate vel. Maecenas non eleifend augue, sed cursus nisi. In hac habitasse platea dictumst. Vivamus elementum, ante vel convallis congue, velit odio tristique sapien, quis egestas purus ex venenatis velit. Vestibulum dui mi, semper nec porttitor in, scelerisque quis est. Aenean lobortis sollicitudin euismod. Vivamus ac nibh ligula.

@@ -4,7 +4,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 toc: true
-toc_label: " "
+toc_label: "&nbsp;Contents"
 toc_icon: "bookmark"
 toc_sticky: true
 ---
