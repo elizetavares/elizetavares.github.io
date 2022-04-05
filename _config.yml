@@ -99,8 +99,8 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
   goatcounter:
-    code         : elizetavares
-
+    code         : <script data-goatcounter="https://elizetavares.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 
 # Site Author

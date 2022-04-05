@@ -9,6 +9,6 @@ main:
   - title: "Blog"
     url: "http://bitethumbnails.com/"
   - title: "CV"
-    url: /cv/
+    url: /assets/pdf/Tavares_CV.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
