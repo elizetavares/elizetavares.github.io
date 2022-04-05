@@ -219,8 +219,10 @@ collections:
     order:
       - courses.md
       - mentorship.md
+      - dighum.md
       - statement_teaching.md
-      - statement_diversity.md
+    # - statement_diversity.md
+    # - letters.md
   dramaturgy:
     output: true
     permalink: /:collection/:path/
