@@ -1,5 +1,5 @@
 ---
-title: Digital Humanities
+title: DH
 permalink: /dh/
 layout: single
 author_profile: true

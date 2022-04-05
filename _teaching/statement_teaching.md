@@ -1,5 +1,5 @@
 ---
-title: Teaching Statement
+title: Philosophy
 permalink: /statement/
 layout: single
 author_profile: true
