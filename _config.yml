@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : ElizETavares
+  username               : "ElizETavares"
 facebook:
   username               :
   app_id                 :
@@ -99,8 +99,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
   goatcounter:
-    code         : <script data-goatcounter="https://elizetavares.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+    code         : "elizetavares"
 
 
 # Site Author
@@ -216,13 +215,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-    order:
-      - courses.md
-      - mentorship.md
-      - dighum.md
-      - statement_teaching.md
-    # - statement_diversity.md
-    # - letters.md
   dramaturgy:
     output: true
     permalink: /:collection/:path/
