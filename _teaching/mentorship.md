@@ -183,19 +183,20 @@ Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://w
 
 ## Research Assistants
 
-Stewart, R., Alabama Shakespeare Project, English Department, University of Alabama (2021-22)
+Stewart, R., [Alabama Shakespeare Project](https://alabamashax.org/), English Department, University of Alabama (2021-22)
 
-Pate, T., *SyllaBits*, Collaborative Arts Research Initiative, University of Alabama (Summer 2021)
+Pate, T., *SyllaBits*, [Collaborative Arts Research Initiative](https://cari.ua.edu/), University of Alabama (Summer 2021)
 
 ## Placements
 
-Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, law, and education, having been accepted to
-* Arizona State University (Arizona Center for Medieval and Renaissance Studies)
+Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and law, among others, having been accepted to
+* Arizona State University (Arizona Center for Medieval & Renaissance Studies)
 * Boston College
 * Emerson College (MFA Publishing)
+* Georgetown University (MA Art & Museum Studies)
 * McGill University
 * Ohio State University
-* Portland State University
+* Portland State University (MA/MS in Book Publishing)
 * SUNY-Buffalo
 * University of Alabama (Hudson Strode Program in Renaissance Studies)
 * University of California, Santa Cruz
@@ -208,4 +209,3 @@ Recent undergraduate advisees have gone on to pursue graduate studies in literat
 * University of Oklahoma
 * University of Virginia
 * Vanderbilt University (Law)
-
