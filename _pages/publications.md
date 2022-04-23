@@ -9,7 +9,9 @@ toc_icon: "bookmark"
 toc_sticky: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet massa vitae tortor condimentum lacinia. Odio pellentesque diam volutpat commodo sed egestas egestas. Feugiat sed lectus vestibulum mattis ullamcorper velit. Nec feugiat in fermentum posuere urna. Congue quisque egestas diam in. Cursus sit amet dictum sit amet. Tincidunt vitae semper quis lectus nulla. Nibh praesent tristique magna sit amet purus gravida quis. Aliquet enim tortor at auctor urna nunc id cursus. Pretium quam vulputate dignissim suspendisse. Rhoncus est pellentesque elit ullamcorper dignissim. Aliquet enim tortor at auctor. Viverra mauris in aliquam sem fringilla ut.
+My research focuses on the development of the repertory or “stock” system of playing: both the ways in which it conditioned the early modern theatre industry and its continued presence in theatre promotion and television writing. Discrete projects on the performance of race, collaborative economies, and climate illustrate how the repertory system mitigated financial risk while engendering innovation in the theatre — capitalizing on how the constitutive processes of reception and appropriation shape (early) modern habits of mind.
+
+A three-time Mellon Foundation fellow, I've benefitted from research grants from the National Endowment for the Humanities; societies for Theatre Research and Renaissance Studies; and the Newberry, Folger, and Huntington libraries; among others. My prize-winning scholarship asppears in venues such as *Early Theatre*, *Shakespeare*, *Shakespeare Bulletin*, and *Shakespeare Studies*, as well as edited collections and handbooks. A regular performance reviewer, I also contribute to academic blogs, vlogs, and podcasts.
 
 [Download CV](/assets/pdf/Tavares_CV.pdf){: .btn .btn--danger} 
 
