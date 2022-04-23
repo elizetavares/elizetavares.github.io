@@ -1,7 +1,7 @@
 ---
 title: Courses
-permalink: /courses/
 layout: single
+collection: teaching
 author_profile: true
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
 header:

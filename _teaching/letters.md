@@ -1,8 +1,10 @@
 ---
-title: Letters of Recommendation
+title: Recommendation Letters
 permalink: /letters/
 layout: single
+collection: teaching
 author_profile: true
+excerpt: "<img src='assets/images/teaching-letters.jpeg' alt=''>"
 toc: true
 toc_label: "&nbsp;Contents"
 toc_icon: "bookmark"
