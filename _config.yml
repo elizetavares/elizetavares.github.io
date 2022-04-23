@@ -27,8 +27,8 @@ repository               : "elizetavares/elizetavares.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -249,10 +249,10 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: false
 
@@ -277,6 +277,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

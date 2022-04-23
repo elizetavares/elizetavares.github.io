@@ -1,6 +1,6 @@
 ---
-title: Courses
-permalink: /courses/
+title: DH
+permalink: /dh/
 layout: single
 author_profile: true
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
