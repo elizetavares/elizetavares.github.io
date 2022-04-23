@@ -7,7 +7,7 @@ title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image:  /assets/images/banner-scarrons.png
+  overlay_image: "/assets/images/banner-scarrons.png"
   caption: "Scarron's comical romance; or, a facetious history of a company of strowling stage-players (London: J. C. and William Crookje, 1676), WING S831, Huntington Library"
 excerpt: " <br>  <br>  <br> "
 

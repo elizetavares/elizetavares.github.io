@@ -20,10 +20,13 @@ A three-time Mellon Foundation fellow, I've benefitted from research grants from
 with S. Ballou, "[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)," *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
 "[Matisse in the Playhouse](/assets/pdf/research/2019-matisseSS.pdf)," *Shakespeare Studies* 47 (2019-10-18): 127-33, doi: [10.17613/7n2f-j853](https://link.gale.com/apps/doc/A606173494/AONE?u=tusc49521&sid=bookmark-AONE&xid=620984cf,&quot;)
+*   Winner, 2018 [#NextGenPlen](https://shakespeareassociation.org/annual-meetings/nextgenplen/), Shakespeare Association of America
 
 "[Super Troupers; or, Supplemented Playing before 1594](/assets/pdf/research/2017-superSS.pdf)," *Shakespeare Studies* 45 (2017-10-18): 77-86, doi: [10.17613/58yh-5x29](https://link.gale.com/apps/doc/A509723472/AONE?u=tusc49521&sid=bookmark-AONE&xid=d2fc65ea)
 
 "[A Race to the Roof: Cosmetics and Contemporary Histories in the Elizabethan Playhouse, 1592–1596](/assets/pdf/research/2016-raceSB.pdf)," *Shakespeare Bulletin* 34, no. 45 (2016-06-22): 193-217, doi: [10.1353/shb.2016.0021](https://doi.org/10.1353/shb.2016.0021)
+*   Winner, 2017 [Barbara Palmer Award for Best New Essay in Early Drama Archival Research](http://themrds.org/award/2017-palmer-award-best-new-essay), Medieval & Renaissance Drama Society
+*   Winner, 2016 [Best New Essay](https://hri.illinois.edu/history/humanities-research-prizes), Illinois Humanities Research Institute
 
 "[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)," *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
 

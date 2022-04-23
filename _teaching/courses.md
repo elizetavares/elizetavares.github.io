@@ -2,11 +2,8 @@
 title: Courses
 permalink: /courses/
 layout: single
+excerpt: "<img src='/assets/images/teaching-dighum.jpeg' alt= ''>"
 author_profile: true
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
-header:
-  image: 
-  teaser: 
 toc: true
 toc_label: "&nbsp;Contents"
 toc_icon: "bookmark"
