@@ -1,5 +1,5 @@
 ---
-title: Diversity Statement
+title: ""
 permalink: /diversity/
 layout: single
 author_profile: true

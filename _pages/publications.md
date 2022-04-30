@@ -37,6 +37,8 @@ with S. Ballou, "[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 "Playing Companies and Repertories," *The Arden Handbook to Shakespeare and Early Modern Drama*, eds. M. M. Dowd and T. Rutter (Bloomsbury)
 
+“Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory,” *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (Cambridge UP)
+
 "Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage," *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (U of Toronto P)
 
 ## Fora
@@ -61,7 +63,7 @@ ed., "[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 "[*Romeo and Juliet / Layla and Majnun* (Bag & Baggage 2017)](/assets/pdf/reviews/2018-romeoBB.pdf)," *Shakespeare Bulletin* 36, no. 2 (2018-07-18): 340–45, doi: [10.1353/shb.2018.0030](http://doi.org/10.1353/shb.2018.0030)
 
-"[*The Taming of the Shrew* (Original Practice Shakespeare Festival 2016)](https://internetshakespeare.uvic.ca/scene/opsfesttaming/index.html)," *Scene: Journal of the Internet Shakespeare Editions* 2 (2017): 66–72
+"[*The Taming of the Shrew* (Original Practice Shakespeare Festival 2016)](https://journals.uvic.ca/index.php/scene/article/view/18373)," *Scene: Journal of the Internet Shakespeare Editions* 2 (2017): 66–72, doi: [10.18357/scene02201718373](https://doi.org/10.18357/scene02201718373)
 
 “[Malvolio’s Revenge; or, Disabusing the Audience](/assets/pdf/reviews/2017-malvolioCST.pdf),” *Shakespeare 400 Chicago: Reflections on a City’s Celebration of Shakespeare*, 166–68 (Chicago Shakespeare Theatre, 2017)
 
