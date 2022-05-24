@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "mint" # "sunrise", "dirt", "neon", "air", "aqua", "contrast", "dark", "default", "mint", "plum"
+minimal_mistakes_skin    : "custom" # "sunrise", "dirt", "neon", "air", "aqua", "contrast", "dark", "default", "mint", "plum"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shakespeare & Repertory"
+title                    : " "
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Elizabeth E. Tavares" # &name is a YAML anchor which can be *referenced later

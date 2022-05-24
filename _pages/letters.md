@@ -1,19 +1,24 @@
 ---
+
 title: Recommendation Letters
 permalink: /letters/
 layout: single
-collection: teaching
 author_profile: true
 excerpt: "<img src='assets/images/teaching-letters.jpeg' alt=''>"
 toc: true
 toc_label: "&nbsp;Contents"
 toc_icon: "bookmark"
 toc_sticky: true
+
 ---
+
+Looking to ask for a letter of recommendation? Here are some things to consider.
 
 ## What are they?
 
-Recommendation letters are frequently asked for when applying for scholarships, internships, employment, or a graduate program. Depending on the purpose, former teachers, employers, supervisors, spiritual leaders, and sometimes even friends can write a letter providing specific examples of your strengths as a candidate, what a company or program would have to gain from your inclusion, and to what extent they believe you are capable of meeting or completing the expectations of the opportunity to which you apply. Consider varying the kinds of individuals who write on your behalf; you should believe them to have a unique perspective on your capabilities as well as willing and able to speak in detail.
+Recommendation letters are frequently asked for when applying for scholarships, internships, employment, or a graduate program. Depending on the purpose, former teachers, employers, supervisors, spiritual leaders, and sometimes even friends can write a letter providing specific examples of your strengths as a candidate, what a company or program would have to gain from your inclusion, and to what extent they believe you are capable of meeting or completing the expectations of the opportunity to which you apply. 
+
+Consider varying the kinds of individuals who write on your behalf; you should believe them to have a unique perspective on your capabilities as well as willing and able to speak in detail.
 
 ## How do I ask for one?
 

@@ -3,7 +3,7 @@ title: Mentorship
 permalink: /mentorship/
 layout: single
 author_profile: true
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio, id consequat urna.."
+excerpt: "A list of student successes, including theses, publications, internships, and placements."
 header:
   image: 
   teaser: 
@@ -13,11 +13,11 @@ toc_icon: "bookmark"
 toc_sticky: true
 ---
 
-Under construction.
+A central pillar of my teaching, mentorship takes the shape task-oriented, collaborative relationships with students in and out of the classroom. Students pursue a range of traditional and non-traditional projects that I support through guidance, teaching of technical skills, and generating laboratory-style spaces in which they can participate. What follows is a sample of thhe deliverables produced under that mentorship, capturing but the tip of the iceberg of the learning achieved in the process of completing a thesis, internship, or performance.
 
-# Recent Theses
+## Recent Theses
 
-## Graduate
+### Graduate
 
 Bell, C., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
@@ -31,7 +31,7 @@ Labe, K., “’How the fishes live in the sea’: Shakespeare’s Daughters and
 
 Fulton, C., “The Educational Visual ‘Language’ in Graphic Novel Adaptations of Shakespeare,” committee member, MA English with a concentration in Renaissance Studies, University of Alabama (3 Mar 2021)
 
-## Undergraduate
+### Undergraduate
 
 Fuller J., chair, BA English with Honors, University of Alabama (in progress)
 
@@ -53,9 +53,9 @@ Dolgin, T., “‘Being dead does little for ones acumens’: Fanfiction, Affect
 
 Elder, R., “‘Even if everything were to fall from under me, I would still prevail’: The Phenomenology of Literary Impressionism in Heinrich von Kleist," co-chair, BA English Literature & German, Pacific University (2018)
 
-# Student Success
+## Student Success
 
-## Prizes
+### Prizes
 
 Green, H., “Faith, the cornerstone of honesty and constancy in trust, marriage, and friendship” (EN 433, Spring 2021), 2022 Lee David Black and Florence Weinberg Black Memorial Scholarship, University of Alabama
 
@@ -105,7 +105,7 @@ Stewart, R., “[The Original Scarlet Letter: Flyting, Green Girdles, and Mediev
 
 Riper, K., “‘Round about her tomb they go’: Editorial Emendation in *Much Ado About Nothing*,” [*The Review: Sigma Tau Delta Journal of Critical Writing*](https://www.english.org/pdf/publications/rectangle-review19.pdf) 16 (2019): 176–81
 
-## Presentations
+### Presentations
 
 Stewart, R., & J. Marx., “Hayma’s Journey: Rohingya Refugee Discourse in the United States Elementary Classroom,” National Conference of Undergraduate Research, Montana State University (26 Mar 2020)
 
@@ -153,7 +153,7 @@ Riper, K., “Hero’s Epitaph: Penance and the Politics of Editorial Emendation
 
 Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in Tom Stoppard’s *Arcadia*,” Northwest Undergraduate Conference on Literature, University of Portland (25 Mar 2017)
 
-## Internships
+### Internships
 
 Gauer, G., Editorial assistant, *International Journal for Undergraduate Research & Creative Activities* (Spring 2020)
 
@@ -181,13 +181,13 @@ Ballou, S., MFA Residency intern, Pacific University (Summer 2017)
 
 Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://www.opsfest.org/apprentice-program.html) (Summer 2017)
 
-## Research Assistants
+### Research Assistants
 
 Stewart, R., [Alabama Shakespeare Project](https://alabamashax.org/), English Department, University of Alabama (2021-22)
 
 Pate, T., *SyllaBits*, [Collaborative Arts Research Initiative](https://cari.ua.edu/), University of Alabama (Summer 2021)
 
-## Placements
+### Placements
 
 Recent undergraduate advisees have gone on to pursue graduate studies in literature, theatre, and law, among others, having been accepted to
 * Arizona State University (Arizona Center for Medieval & Renaissance Studies)
