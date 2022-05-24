@@ -209,3 +209,5 @@ Recent undergraduate advisees have gone on to pursue graduate studies in literat
 * University of Oklahoma
 * University of Virginia
 * Vanderbilt University (Law)
+
+*Updated 2022-04-30*

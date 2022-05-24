@@ -33,9 +33,9 @@ with S. Ballou, "[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 ### Forthcoming
 
-"Alive in the (early) modern repertory," *Early Modern Liveness*, eds. D. Rosvally and D. Sherman (Bloomsbury)
+"Alive in the (early) modern repertory," *Early Modern Liveness*, eds. D. Rosvally and D. Sherman (Bloomsbury, Jan 2023)
 
-"Playing Companies and Repertories," *The Arden Handbook to Shakespeare and Early Modern Drama*, eds. M. M. Dowd and T. Rutter (Bloomsbury)
+"Playing Companies and Repertories," [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (Bloomsbury, Jan 2023)
 
 “Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory,” *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (Cambridge UP)
 
