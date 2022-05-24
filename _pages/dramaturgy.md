@@ -1,6 +1,6 @@
 ---
 
-title: Dramaturgy
+title: "Dramaturgy"
 layout: single
 permalink: /dramaturgy/
 author_profile: true

@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "A Statement on Diversity"
 permalink: /diversity/
 layout: single
 author_profile: true
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio"
+excerpt: "A statement on the evolving strategies to foster diversity in my classrooms, research agenda, and service."
 header:
   image: 
   teaser: 
@@ -13,22 +13,21 @@ toc_icon: "bookmark"
 toc_sticky: true
 ---
 
-# Island to Island
-*A Statement on Diversity*
+## Island to Island
 
 My awareness of historically underrepresented and economically disadvantaged groups is fundamentally informed both by my Hawai’i upbringing in a rural, outer-island community of Portuguese and Filipino farmers, and the undergraduate intellectual *bildungsroman* of Chicago’s stark racial divide. In light of these experiences, as both teacher and scholar I feel an ethical responsibility to underscore cultural plurality and emphasize the fact that dialogue between people of different perspectives, values, and backgrounds enriches critical inquiry.
 
-## Teaching the margins
+### Teaching the margins
 Teaching the English Renaissance gives me purchase on contemporary debates surrounding gender and race. Biological knowledge of the period generally presumed women were warm, soft, and under-baked men. Therefore, homo- and heterosexual categories as we know them were non-operative: for these early Protestants, unacceptable sexual activity was any that did not result in offspring. Yet men cross-dressed as women on their stages, as underscored by the beard jokes in *Twelfth Night* (1602), women moved about London as men, like that in *The Roaring Girl* (1611), and intersexuality, the focus of *Galathea* (1588), was a live debate. Therefore, I employ activities and projects in which students build a vocabulary of cultural competency, which I find directly sponsors the process of learning core course content. Because our belatedness is a constant reminder that the politics of identity are historically contingent, the past is a powerful place where students practice mutual respect while considering diverse perspectives.
 
 With this approach, students consider the complexities of those categories by which we perform identity to discover their intersections, evidenced in a recent Black literature seminar exploring what it means to, as Ta-Nehisi Coates says, “live in a Black body.” From Nella Larsen’s chilling exploration of passing to *Red Velvet*, the award-winning play about the first actor of color to perform the eponym in *Othello*, students explore the ways in which they can productively promote public discourse around race, privilege, and difference. Employing contemporary devised theatre techniques alongside hashtag activism rhetoric, in weekly “twessays” students tested strategies of debate live, linking the work of the classroom with the public sphere. The course concluded with a real-time Twitter play, [*Othello's Crane*](https://wke.lt/w/s/laNNl). The digital adaptation (performed the week #MeToo broke) evolved into an argument about violence against Desdemona. The students employed the Twitter tactic of memorializing mass tragedies like the Pulse shootings with hashtags to demonstrate that violence against women is not divorced from the experience of the Black body by creating “#DesInOur 🖤.” An article on this praxis, co-authored with the students, was recently published with [*Hybrid Pedagogy*](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/).
 
-## Learning through intersections
+### Learning through intersections
 The teaching of introductory film courses lends itself, I have found, to incorporating primary texts that engage with Feminist critique. For example, I follow a brief lecture on the three waves of Feminism with an analysis of framing and mise-en-scène in Patricia Rozema’s *I’ve Heard the Mermaids Singing* (1987). The mirrors and hidden cameras provide opportunities for students to identify how the male gaze operates on Polly by practicing their close-reading skills. Placing Polly’s interior monologues alongside that of T. S. Eliot’s “The Love Song of J. Alfred Prufrock” (1915) enables students to identify ways in which homosexual coupling resists and reinforces a masculine hegemony. Students identify the evolution of Feminist critique across the twentieth century as reproductive rights, the glass ceiling, and non-cisgender equality continue to be debated today.
 
 One may not immediately assume British literature to afford unique opportunities for exploring diversity—in terms of cultural, ability, gendered, and classed distinctions—considering the field’s colonial cachet. Yet my students find Aemelia Lanier’s "Salve Deus Rex Judaeorum" (1611) to posit an association between female freedom and homoerotic friendship; excerpts from Martin Frobisher’s arctic voyages to reveal the newly credit-driven economy of England that bankrolled early colonial endeavors while at the same time fueled the burgeoning Scientific Revolution; and speeches by Mary, Queen of Scots, and Elizabeth Tudor to enliven voices of female governance while situated within the confines of their elite male Privy Councils.
 
-## Decolonizing the canon
+### Decolonizing the canon
 My commitment to diversity likewise extends to my research. My current book project underscores in three ways the regionality within and between the early modern British Isles. First, I emphasize the cultural history and memories that marked regions as distinct. Second, I separate rural and urban consumers of theatre as distinct audiences with different ideological and economic priorities conditioned, in part, by the primacy of touring for players, bearwards, and musicians alike. Third, I problematize categories of “blackness” by, for example, tracing the socio-economic factors that produced a 1580s fad for Mediterranean plays. The Lord Strange’s Men found financial success by engaging growing communities of color in England (ninety percent of whom lived in the playhouse parishes) as well as London playgoers’ desires to negotiate their sense place within a global history.
 
 Concomitant has been my exploration of staging not only of figures from North Africa and the Levant, but also Mongol-China. As part of my larger concerns delineating industry-wide from company-specific manners of presentation, the dramaturgical features required of the "Tamar Cham" plays, focusing on the infamous Chinggis Khan, provide a concrete picture of the racialized implications of house styles distinguishing companies for which Shakespeare wrote. During a 2018 Huntington fellowship, I discovered the two extant sources for this lost play. Furthermore, this revealed a large body of writing about the Great Steppe tribes yet to be addressed in any scholarly articles or monographs. The extant record suggests that there is an archive surrounding Tatarians and a demonstrable need to connect their representation to larger conversations about race in early modern England, how race played out on London stages, and what impact those representations had on the theatre industry and economy. These findings were presented at the 2019 Renaissance Society of America conference and are now forthcoming in an edited collection on revival. 

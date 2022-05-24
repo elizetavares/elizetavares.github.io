@@ -3,7 +3,7 @@ title: "Omeka and Film"
 permalink: /omeka/
 layout: single
 author_profile: true
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel fringilla odio"
+excerpt: " "
 header:
   image: 
   teaser: 
