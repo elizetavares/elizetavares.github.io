@@ -7,14 +7,22 @@ title: " "
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image:  /assets/images/banner-scarrons.png
-  caption: "Scarron's comical romance; or, a facetious history of a company of strowling stage-players (London: J. C. and William Crookje, 1676), WING S831, Huntington Library"
+  overlay_image:  /assets/images/banner-postcard.png
+  caption: " "
 excerpt: " <br>  <br>  <br> "
 
 ---
 
-Pardon the dust — revised content forthcoming this summer!
+Hi! I'm Elizabeth Tavares ([she/her](https://pronoun.is/she)), an interdisciplinary scholar of early modern English drama, whose research foci include playing companies, theatre history, and Shakespeare in performance. I have the good fortune to serve as assistant professor of English at the [University of Alabama](https://english.ua.edu/people/etavares/), where I teach undegraduate and graduate courses for the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/).
 
-Need to get in touch before then? Check out my [department profile](https://english.ua.edu/people/etavares/) or drop me a line via [email](mailto:eetavares@ua.edu). I look forward to hearing from you!
+A three-time Mellon Foundation fellow, I've benefitted from research grants from the National Endowment for the Humanities; societies for Theatre Research and Renaissance Studies; and the Newberry, Folger, and Huntington libraries; among others. My prize-winning scholarship has appeared in *Early Theatre*, *Shakespeare*, *Shakespeare Bulletin*, and *Shakespeare Studies*, among others, as well as edited collections, special issues, and handbooks. A regular performance reviewer, I also contribute to academic blogs, vlogs, and podcasts.
+
+I am currently at work on a book project, *Playing the Repertory in Early Modern England*, which, in tracing the development of the sixteenth-century repertory system, demonstrates how four major tacks — triptych blocking, up-cycled props, tailored soundscapes, and racialized prosthetics — were employed by companies to distinguish their relative house styles and, by extension, cultivate returner audiences. Other recent interests range from the role climatological phenomena played in the emergence of the professional playing companies and the place of victualing houses in sixteenth-century new play development, to the effects of content curation on early (modern) habits of mind. 
+
+Alongside these research endeavors, I am also a working dramaturg for productions of Shakespeare and new work. This includes serving as director-of-research for the [Alabama Shakespeare Project](https://alabamashax.org/), a performance-based research collective exploring early modern entertainments through a staged reading series and other events.
+
+If you're interested, you can check out my [publications](/_pages/publications.md), [digital projects](/_pages/dighum.md), [dramaturgy credits](/_pages/dramaturgy.md), and infrequent [blog](http://bitethumbnails.com/) posts on issues related to repertory and contemporary performance trends. 
+
+If you'd like to reach out, please do drop me a line via [email](mailto:eetavares@ua.edu). I look forward to hearing from you!
 
 ---
