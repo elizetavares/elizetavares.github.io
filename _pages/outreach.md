@@ -17,7 +17,7 @@ I occassionally get asked to facilitate conversations for the public about Shake
 
 ### A Day Out at Shakespeare's Theatre
 *A Bit Lit, January 2022* / [full session](https://youtu.be/wPCQuC-TZjQ?t=961)
-<iframe src="https://www.youtube.com/embed/wPCQuC-TZjQ?t=1620"> </iframe>
+<iframe src="https://www.youtube.com/embed/wPCQuC-TZjQ?start=1604"> </iframe>
 
 ### Shakespeare & Contemporary Theatre-Making
 *A Bit Lit, May 2020*
@@ -26,7 +26,7 @@ I occassionally get asked to facilitate conversations for the public about Shake
 ## Digital Playbills
 ### *Coriolanus*
 *The Show Must Go Online, October 2020*
-<iframe src="https://www.youtube.com/embed/ZR1Ghcyt6DU?t=10"> </iframe>
+<iframe src="https://www.youtube.com/embed/ZR1Ghcyt6DU?t=163"> </iframe>
 
 ### *Macbeth*
 *Shakespeare 2020 Project, August 2020*
