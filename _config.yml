@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "custom" # "sunrise", "dirt", "neon", "air", "aqua", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth E. Tavares"
-title_separator          : "|"
+title                    : # "Elizabeth E. Tavares"
+title_separator          : " "
 subtitle                 : # Shakespeare & Repertory
 name                     : &name "Elizabeth E. Tavares" # &name is a YAML anchor which can be *referenced later
 description              : &description "Assistant professor of English at the University of Alabama"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/etavares-bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tavares_headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
   location         : # "Tuscaloosa, AL"
   employer         : # "The University of Alabama"
@@ -127,7 +127,7 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=O9QXlvgAAAAJ"
     - label: "New Play Exchange"
-      icon: "fa-solid fa-masks-theater"
+      icon: "fa-regular fa-playu"
       url: "https://newplayexchange.org/users/13532/elizabeth-tavares"
     - label: "YouTube"
       icon: "fab fa-youtube"

@@ -35,6 +35,8 @@ with S. Ballou, "[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 "Playing Companies and Repertories," [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (Bloomsbury, Jan 2023)
 
+“‘On pleasures past, and dangers to ensue’: Site-Specific Violence and the Post-Renovation Rose Repertory,” Special Issue: Props in Repertory, *Shakespeare*
+
 “Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory,” *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (Cambridge UP)
 
 "Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage," *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (U of Toronto P)
