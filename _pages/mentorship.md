@@ -81,7 +81,7 @@ Elder, R., “‘Knowledge is Not for Knowing’: Criticisms of Empiricism in To
 
 Elliot, C., “Plastic Paradise: Environment and Implication in William Shakespeare’s *As You Like It*” (ENGL 340, Fall 2016), 2017 Awards in Literary Scholarship (honorable mention), Pacific University
 
-## Publications
+### Publications
 
 Bush, K., “Bite Down,” [*The Rectangle: Sigma Tau Delta Journal of Creative Writing*](https://www.english.org/pdf/publications/rectangle-review20.pdf) 95 (2020): 54–60
 
