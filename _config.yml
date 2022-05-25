@@ -127,7 +127,7 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=O9QXlvgAAAAJ"
     - label: "New Play Exchange"
-      icon: "fa-regular fa-playu"
+      icon: "fas fa-play"
       url: "https://newplayexchange.org/users/13532/elizabeth-tavares"
     - label: "YouTube"
       icon: "fab fa-youtube"
