@@ -57,6 +57,8 @@ Elder, R., “‘Even if everything were to fall from under me, I would still pr
 
 ### Prizes
 
+Carpenter, A., "A Man or a King: King Henry V According to His Battlefield Prayer" (EN 333, Spring 2022), Honors College Paper of the Year (honorable mention), University of Alabama
+
 Green, H., “Faith, the cornerstone of honesty and constancy in trust, marriage, and friendship” (EN 433, Spring 2021), 2022 Lee David Black and Florence Weinberg Black Memorial Scholarship, University of Alabama
 
 Skinkle, A., “Sticks and Stones Hurt, But So Do Words” (EN 333, Fall 2020), 2021 [John Blanke Prize for the best essay on medieval or early modern literature and race](https://strode.english.ua.edu/undergraduate/), Hudson Strode Program in Renaissance Studies, University of Alabama
