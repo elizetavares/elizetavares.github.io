@@ -51,7 +51,7 @@ ed., "[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 ### Performances
 
-"*Romeo and Juliet* (National Theatre 2021)," *Shakespeare Bulletin* 40, no. 1 (in press)
+"[*Romeo and Juliet* (National Theatre 2021)](/assets/pdf/reviews/2022-romeoSB.pdf)," *Shakespeare Bulletin* 40, no. 1 (2022-06-27): 148–52, doi: [10.1353/shb.2022.0008](https://doi.org/10.1353/shb.2022.0008)
 
 "[*A Midsummer Night’s Dream* (Back Room Shakespeare Project 2020)](/assets/pdf/reviews/2021-mndSB.pdf)," *Shakespeare Bulletin* 38, no. 3 (2021-09-24): 511–15, doi: [10.1353/shb.2020.0040](http://doi.org/10.1353/shb.2020.0040) / [Watch](https://youtu.be/j2gOa7jjzEw)
 
