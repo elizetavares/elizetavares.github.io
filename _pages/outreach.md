@@ -11,41 +11,41 @@ toc_sticky: true
 
 ---
 
-I occassionally get asked to facilitate conversations for the public about Shakespeare, offer introductory lectures on individual plays and theatre history, and comment on Shakespeare in contemporary performance. I take great joy in empowering audiences of all ages and background to engage with and claim Shakespeare as their own. Interested in collaborating? Do get [in touch](mailto:eetavares@ua.edu)!
+I occassionally get asked to facilitate conversations for the public about Shakespeare, offer introductory lectures on individual plays and theatre history, and comment on Shakespeare in contemporary performance. I take great joy in empowering audiences of all ages and backgrounds to engage with Shakespeare as their own. Interested in collaborating? Do get [in touch](mailto:eetavares@ua.edu)!
 
 ## Public Humanities
 
 ### A Day Out at Shakespeare's Theatre
-*A Bit Lit, January 2022* / [full session](https://youtu.be/wPCQuC-TZjQ?t=961)
+*A Bit Lit, 2022-01* / [full session](https://youtu.be/wPCQuC-TZjQ?t=961)
 <iframe src="https://www.youtube.com/embed/wPCQuC-TZjQ?start=1604"> </iframe>
 
 ### Shakespeare & Contemporary Theatre-Making
-*A Bit Lit, May 2020*
+*A Bit Lit, 2020-05*
 <iframe src="https://www.youtube.com/embed/AP8tgZL2rhs"> </iframe>
 
 ## Digital Playbills
 ### *Coriolanus*
-*The Show Must Go Online, October 2020*
+*The Show Must Go Online, 2020-10*
 <iframe src="https://www.youtube.com/embed/ZR1Ghcyt6DU?t=163"> </iframe>
 
 ### *Macbeth*
-*Shakespeare 2020 Project, August 2020*
+*Shakespeare 2020 Project, 2020-08*
 <iframe src="https://www.youtube.com/embed/_3-GERiFsyQ"> </iframe>
 
 ### *Much Ado About Nothing*
-*Shakespeare 2020 Project, July 2020*
+*Shakespeare 2020 Project, 2020-07*
 <iframe src="https://www.youtube.com/embed/1b37DCHbT9c"> </iframe>
 
 ## Podcasts
-* “[Foolish Voices: Elizabeth E. Tavares](https://anchor.fm/foolish-voices/episodes/Foolish-Voices-Dr--Elizabeth-Tavares-ec5ibr/a-a1qe1j7),” *Foolish Voices: A Company of Fools Podcast,* featuring Scott Palmer (March 2020)
-* “[Ops Cast No. 10: Elizabeth Tavares](https://web.archive.org/web/20170629194846/https://opscast.libsyn.com/),” *OpsCast*, Origial Practice Shakespeare Festival feat. Andrew Bray and Brian Allard (March 2017)
+* '[Foolish Voices: Elizabeth E. Tavares](https://anchor.fm/foolish-voices/episodes/Foolish-Voices-Dr--Elizabeth-Tavares-ec5ibr/a-a1qe1j7)', *Foolish Voices: A Company of Fools Podcast,* featuring Scott Palmer (2020-03)
+* '[Ops Cast No. 10: Elizabeth Tavares](https://web.archive.org/web/20170629194846/https://opscast.libsyn.com/)', *OpsCast*, Origial Practice Shakespeare Festival featuring Andrew Bray and Brian Allard (2017-03)
 
 ## Talk Backs
-* *Judge Torres*, Bag & Baggage (November 2019)
-* *Macbeth*, Portland Center Stage (October 2019)
-* *Much Ado About Nothing*, Original Practice Shakespeare Festival (May 2019)
-* *Twelfth Night*, Original Practice Shakespeare Festival (May 2017)
-* *The Taming of the Shrew*, Original Practice Shakespeare Festival (April 2017)
-* *A Midsummer Night's Dream*, Oregon Shakespeare Festival/Play On! Project (April 2017)
+* *Judge Torres*, Bag & Baggage (2019-11)
+* *Macbeth*, Portland Center Stage (2019-10)
+* *Much Ado About Nothing*, Original Practice Shakespeare Festival (2019-05)
+* *Twelfth Night*, Original Practice Shakespeare Festival (2017-05)
+* *The Taming of the Shrew*, Original Practice Shakespeare Festival (2017-04)
+* *A Midsummer Night's Dream*, Oregon Shakespeare Festival/Play On! Project (2017-04)
 
-*Updated 2022-05-25*
+*Updated 2022-07-22*

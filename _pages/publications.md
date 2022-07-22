@@ -18,10 +18,13 @@ My research focuses on the development of the repertory or “stock” system of
 with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)', *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
 '[Matisse in the Playhouse](/assets/pdf/research/2019-matisseSS.pdf)', *Shakespeare Studies* 47 (2019-10-18): 127-33, doi: [10.17613/7n2f-j853](https://link.gale.com/apps/doc/A606173494/AONE?u=tusc49521&sid=bookmark-AONE&xid=620984cf,&quot;)
+* 2018 Next Generation Plenary selection, Shakespeare Association of America
 
 '[Super Troupers; or, Supplemented Playing before 1594](/assets/pdf/research/2017-superSS.pdf)', *Shakespeare Studies* 45 (2017-10-18): 77-86, doi: [10.17613/58yh-5x29](https://link.gale.com/apps/doc/A509723472/AONE?u=tusc49521&sid=bookmark-AONE&xid=d2fc65ea)
 
 '[A Race to the Roof: Cosmetics and Contemporary Histories in the Elizabethan Playhouse, 1592–1596](/assets/pdf/research/2016-raceSB.pdf)', *Shakespeare Bulletin* 34, no. 45 (2016-06-22): 193-217, doi: [10.1353/shb.2016.0021](https://doi.org/10.1353/shb.2016.0021)
+* 2017 Palmer Prize for Best New Essay in Early Drama Archival Research, Medieval and Renaissance Drama Society / [citation](http://themrds.org/award/2017-palmer-award-best-new-essay)
+* 2016 Prize for Research in the Humanities, Illinois Humanities Research Institute / [citation](https://hri.illinois.edu/history/humanities-research-prizes#2015-16)
 
 '[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)', *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
 
@@ -33,9 +36,9 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly*
 
-'Alive in the (Early) Modern Repertory', *Early Modern Liveness*, eds. D. Rosvally and D. Sherman (Bloomsbury, Jan 2023)
+'Alive in the (Early) Modern Repertory', [*Early Modern Liveness: Mediating Presence in Text, Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman (Bloomsbury, 2023-01)
 
-'Playing Companies and Repertories', [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (Bloomsbury, Jan 2023)
+'Playing Companies and Repertories', [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (Bloomsbury, 2023-01)
 
 '"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue: Props in Repertory, *Shakespeare*
 
@@ -77,11 +80,11 @@ ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 '[The Portland Actors Ensemble: *Love’s Labour’s Lost*](https://shakespearenewsletter.com/the-portland-actors-ensemble-loves-labours-lost/)', *In the Glassy Margents*, ed. T. J. Moretti (2016-10-27)
 
-'[‘Spirited with wine’: Portland Actors Ensemble’s Summer Season](/assets/pdf/reviews/2016-paeSN.pdf)', *The Shakespeare Newsletter* 66, no. 1 (2016): 38–40
+'["Spirited with wine": Portland Actors Ensemble’s Summer Season](/assets/pdf/reviews/2016-paeSN.pdf)', *The Shakespeare Newsletter* 66, no. 1 (2016): 38–40
 
 '[*Julius Caesar* (Back Room Shakespeare Project 2014)](/assets/pdf/reviews/2014-juliusSB.pdf)', *Shakespeare Bulletin* 32, no. 4 (2014-12-05): 756–60, doi: [10.1353/shb.2014.0058](http://doi.org/10.1353/shb.2014.0058) 
 
-'[*Mankind* (Illinois Program in Medieval Studies 2013)](/assets/pdf/reviews/2013-mankindSB.pdf)', *Shakespeare Bulletin* 31, no. 3 (2013-09-11): 558–62, doi: [10.1353/shb.2013.0054] (http://doi.org/10.1353/shb.2013.0054)
+'[*Mankind* (Illinois Program in Medieval Studies 2013)](/assets/pdf/reviews/2013-mankindSB.pdf)', *Shakespeare Bulletin* 31, no. 3 (2013-09-11): 558–62, doi: [10.1353/shb.2013.0054](http://doi.org/10.1353/shb.2013.0054)
 
 '[*Othello* and *Twelfth Night* (Shakespeare Project of Chicago 2012)](/assets/pdf/reviews/2013-comboSB.pdf)', *Shakespeare Bulletin* 31, no. 2 (2013-06-06): 286–92, doi: [10.1353/shb.2013.0020](http://doi.org/10.1353/shb.2013.0020)
 
@@ -110,3 +113,5 @@ with H. Vincent, '[A Semi-Diplomatic Transcription of Selections from the John W
 '[Making the Covert Public](https://humanitiesforall.org/blog/making-the-covert-public)', *Humanities for All* blog, eds. M. May-Curry and Y. Oliver, National Humanities Alliance (2021-06-15)
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
+
+*Updated 2022-07-22*
