@@ -33,8 +33,6 @@ Fulton, C., “The Educational Visual ‘Language’ in Graphic Novel Adaptation
 
 ### Undergraduate
 
-Fuller J., chair, BA English with Honors, University of Alabama (in progress)
-
 Stewart, R., "'Their heirs may prosper while mine bleeds’: Legal Renege, Witnessing, and Child Corpses in *Two Lamentable Tragedies* and *A Yorkshire Tragedy*," chair, BA English Literature, Pacific University (2021)
 
 Giordano, M., "The Good King: Henry VII of England," second reader, [Medieval & Early Modern European Studies minor](https://memes.as.ua.edu/minor-requirements/), University of Alabama (2021)

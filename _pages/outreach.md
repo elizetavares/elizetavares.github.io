@@ -36,10 +36,6 @@ I occassionally get asked to facilitate conversations for the public about Shake
 *Shakespeare 2020 Project, 2020-07*
 <iframe src="https://www.youtube.com/embed/1b37DCHbT9c"> </iframe>
 
-## Podcasts
-* '[Foolish Voices: Elizabeth E. Tavares](https://anchor.fm/foolish-voices/episodes/Foolish-Voices-Dr--Elizabeth-Tavares-ec5ibr/a-a1qe1j7)', *Foolish Voices: A Company of Fools Podcast,* featuring Scott Palmer (2020-03)
-* '[Ops Cast No. 10: Elizabeth Tavares](https://web.archive.org/web/20170629194846/https://opscast.libsyn.com/)', *OpsCast*, Origial Practice Shakespeare Festival featuring Andrew Bray and Brian Allard (2017-03)
-
 ## Talk Backs
 * *Judge Torres*, Bag & Baggage (2019-11)
 * *Macbeth*, Portland Center Stage (2019-10)
@@ -48,4 +44,14 @@ I occassionally get asked to facilitate conversations for the public about Shake
 * *The Taming of the Shrew*, Original Practice Shakespeare Festival (2017-04)
 * *A Midsummer Night's Dream*, Oregon Shakespeare Festival/Play On! Project (2017-04)
 
-*Updated 2022-07-22*
+## Podcasts
+* '[Foolish Voices: Elizabeth E. Tavares](https://anchor.fm/foolish-voices/episodes/Foolish-Voices-Dr--Elizabeth-Tavares-ec5ibr/a-a1qe1j7)', *Foolish Voices: A Company of Fools Podcast,* featuring S. Palmer (2020-03)
+* '[Ops Cast No. 10: Elizabeth Tavares](https://web.archive.org/web/20170629194846/https://opscast.libsyn.com/)', *OpsCast*, Origial Practice Shakespeare Festival featuring A. Bray and B. Allard (2017-03)
+
+## Interviews
+
+* A. Roberts, '[Faculty Profile: Professor Elizabeth E. Tavares](https://english.ua.edu/2021/03/01/faculty-profile-professor-elizabeth-e-tavares/)', *The Scarlet Newsletter*, University of Alabama (2021-03-01)
+* '[Rediscovering the Renaissance](https://as.ua.edu/2020/11/09/rediscovering-the-renaissance/)', *Desktop News*, University of Alabama (2020-11-09)
+* '[Genghis Khan on the Elizabethan Stage](https://www.str.org.uk/genghis-khan-on-the-elizabethan-stage/)', *Green Room: Blog of the Society for Theatre Research* (2019-11-12)
+
+*Updated 2022-07-30*
