@@ -15,6 +15,12 @@ My research focuses on the development of the repertory or “stock” system of
 
 ## Articles
 
+with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly* (forthcoming)
+
+with L. Johnson, 'Introduction: Repertory, Economy, Dramaturgy', *Early Theatre* 25, no. 2 (forthcoming)
+
+'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue: Props in Repertory (forthcoming)
+
 with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)', *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
 '[Matisse in the Playhouse](/assets/pdf/research/2019-matisseSS.pdf)', *Shakespeare Studies* 47 (2019-10-18): 127-33, doi: [10.17613/7n2f-j853](https://link.gale.com/apps/doc/A606173494/AONE?u=tusc49521&sid=bookmark-AONE&xid=620984cf,&quot;)
@@ -26,27 +32,25 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 * 2017 Palmer Prize for Best New Essay in Early Drama Archival Research, Medieval and Renaissance Drama Society / [citation](http://themrds.org/award/2017-palmer-award-best-new-essay)
 * 2016 Prize for Research in the Humanities, Illinois Humanities Research Institute / [citation](https://hri.illinois.edu/history/humanities-research-prizes#2015-16)
 
-'[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)', *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
-
 '[The Chariot in *2 Tamburlaine*, *The Wounds of Civil War or Marius and Scilla*, and *The Reign of King Edward III*](/assets/pdf/research/2016-chariotNQ.pdf)', *Notes & Queries* 63, no. 3 (2016-07-14): 393-96, doi: [10.1093/notesj/gjw145](https://doi.org/10.1093/notesj/gjw145)
 
 '[A Tale of Two Shrews: Recovering the Repertory of the Lord Pembroke’s Players](/assets/pdf/research/2015-shrewsJWO.pdf)', *Journal of the Wooden O* 14 (2015-08-01): 84-95, doi: [10.17613/b968-a398](https://omeka.li.suu.edu/ojs/index.php/woodeno/article/view/213)
 
-### Forthcoming
+## Chapters
 
-with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly*
+'Alive in the (Early) Modern Repertory', [*Early Modern Liveness: Mediating Presence in Text, on Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman (forthcoming)
 
-'Alive in the (Early) Modern Repertory', [*Early Modern Liveness: Mediating Presence in Text, Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman (Bloomsbury, 2023-01)
+'Playing Companies and Repertories', [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (forthcoming)
 
-'Playing Companies and Repertories', [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (Bloomsbury, 2023-01)
+'Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory', *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (forthcoming)
 
-'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue: Props in Repertory, *Shakespeare*
+'Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage', *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (forthcoming)
 
-'Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory', *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (Cambridge UP)
-
-'Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage', *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (U of Toronto P)
+'[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)', *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
 
 ## Fora
+
+with L. Johnson and E. MacLeod, eds., 'Special Issue: Props in Repertory' (forthcoming)
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (in press)
 
@@ -102,6 +106,8 @@ ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 ## Reference
 
+with A. Morris and H. McNamee, 'Census of Medieval and Renaissance performance since January 2022], *Research on Medieval and Renaissance Drama* 60 (in preparation)
+
 with K. A. Thomas, '[Census of Medieval and Renaissance performance since January 2021](/assets/pdf/other/2021-censusRMRD.pdf)', *Research on Medieval and Renaissance Drama* 58 (2021-12-31): 79-106
 
 '[The Sun Tavern (The Sonne)](https://mapoflondon.uvic.ca/SUNT1.htm)', in *The Map of Early Modern London*, ed. J. Jenstad (2020-07-12)
@@ -114,4 +120,4 @@ with H. Vincent, '[A Semi-Diplomatic Transcription of Selections from the John W
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2022-07-22*
+*Updated 2022-08-01*
