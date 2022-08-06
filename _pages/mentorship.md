@@ -13,7 +13,7 @@ toc_icon: "bookmark"
 toc_sticky: true
 ---
 
-A central pillar of my teaching, mentorship takes the shape task-oriented, collaborative relationships with students in and out of the classroom. Students pursue a range of traditional and non-traditional projects that I support through guidance, teaching of technical skills, and generating laboratory-style spaces in which they can participate. What follows is a sample of thhe deliverables produced under that mentorship, capturing but the tip of the iceberg of the learning achieved in the process of completing a thesis, internship, or performance.
+A central pillar of my teaching, mentorship takes the shape of task-oriented, collaborative relationships with students in and out of the classroom. Students pursue a range of traditional and non-traditional projects that I support through guidance, teaching of technical skills, and generating laboratory-style spaces in which they can test and explore. What follows is a sample of thhe deliverables produced under that mentorship, capturing but the tip of the iceberg of the learning achieved in the process of completing a thesis, internship, or performance.
 
 ## Recent Theses
 
@@ -26,6 +26,8 @@ Bird, A., dissertation, committee member, PhD English with a concentration in Re
 Morris, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
 Pate, T., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
+Stewart, R., thesis, committee member, MA English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
 Labe, K., “’How the fishes live in the sea’: Shakespeare’s Daughters and the Market of Romance,” committee member, MA English with a concentration in Renaissance Studies, University of Alabama (8 Mar 2022)
 

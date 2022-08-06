@@ -13,7 +13,7 @@ excerpt: " <br>  <br>  <br> "
 
 ---
 
-Hi! I'm Elizabeth Tavares ([she/her](https://pronoun.is/she)), an interdisciplinary scholar of early modern English drama, whose research foci include playing companies, theatre history, and Shakespeare in performance. I have the good fortune to serve as assistant professor of English at the [University of Alabama](https://english.ua.edu/people/etavares/), where I teach undergraduate and graduate courses for the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/).
+Hi! I'm Elizabeth Tavares ([she/her](https://pronoun.is/she)), an interdisciplinary scholar of early modern English drama whose research foci include playing companies, theatre history, and Shakespeare in performance. I have the good fortune to serve as assistant professor of English at the [University of Alabama](https://english.ua.edu/people/etavares/), where I teach undergraduate and graduate courses for the [Hudson Strode Program in Renaissance Studies](https://strode.english.ua.edu/).
 
 A three-time Mellon Foundation fellow, I've benefitted from research grants from the National Endowment for the Humanities; societies for Theatre Research and Renaissance Studies; and the Newberry, Folger, and Huntington libraries; among others. My prize-winning scholarship has appeared in *Early Theatre*, *Shakespeare*, *Shakespeare Bulletin*, and *Shakespeare Studies*, among others, as well as edited collections, special issues, and handbooks. A regular performance reviewer, I also contribute to academic blogs, vlogs, and podcasts.
 
@@ -26,3 +26,5 @@ If you're interested, you can check out my [publications](/_pages/publications.m
 If you'd like to reach out, please do drop me a line via [email](mailto:eetavares@ua.edu). I look forward to hearing from you!
 
 ---
+<script data-goatcounter="https://elizetavares.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
