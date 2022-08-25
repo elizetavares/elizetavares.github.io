@@ -17,9 +17,7 @@ My research focuses on the development of the repertory or “stock” system of
 
 with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly* (forthcoming)
 
-with L. Johnson, 'Introduction: Repertory, Economy, Dramaturgy', *Early Theatre* 25, no. 2 (forthcoming)
-
-'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue: Props in Repertory (forthcoming)
+'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue on Props in Repertory, *Shakespeare* (forthcoming)
 
 with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)', *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
@@ -50,9 +48,11 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 ## Fora
 
-with L. Johnson and E. MacLeod, eds., 'Special Issue: Props in Repertory' (forthcoming)
+with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* (forthcoming)
+* with L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance', *Shakespeare* (forthcoming)
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (in press)
+* with L. Johnson, 'Introduction: Repertory, Economy, Dramaturgy', *Early Theatre* 25, no. 2 (in press)
 
 ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages](https://ijurca-pub.org/14/volume/11/issue/3/)', *International Journal of Undergraduate Research and Creative Activities* 11, no. 3 (2019), doi: [10.7710/263](http://doi.org/10.7710/263)
 
