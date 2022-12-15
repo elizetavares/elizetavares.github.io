@@ -11,7 +11,7 @@ toc_sticky: true
 
 My research focuses on the development of the repertory or “stock” system of playing: both the ways in which it conditioned the early modern theatre industry and its continued presence in theatre promotion and television writing. Discrete projects on the performance of race, collaborative economies, and climate illustrate how the repertory system mitigated financial risk while engendering innovation in the theatre — capitalizing on how the constitutive processes of reception and appropriation shape (early) modern habits of mind.
 
-[Download CV](/assets/pdf/Tavares_CV.pdf){: .btn .btn--danger} 
+[Download CV](/assets/pdf/Tavares_CV.pdf){: .btn .btn--danger}
 
 ## Articles
 
@@ -51,8 +51,8 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* (forthcoming)
 * with L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance', *Shakespeare* (forthcoming)
 
-with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (in press)
-* with L. Johnson, 'Introduction: Repertory, Economy, Dramaturgy', *Early Theatre* 25, no. 2 (in press)
+with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (2022-12-13)
+* with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022_IIRintro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-29, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
 
 ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages](https://ijurca-pub.org/14/volume/11/issue/3/)', *International Journal of Undergraduate Research and Creative Activities* 11, no. 3 (2019), doi: [10.7710/263](http://doi.org/10.7710/263)
 
@@ -86,7 +86,7 @@ ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 '["Spirited with wine": Portland Actors Ensemble’s Summer Season](/assets/pdf/reviews/2016-paeSN.pdf)', *The Shakespeare Newsletter* 66, no. 1 (2016): 38–40
 
-'[*Julius Caesar* (Back Room Shakespeare Project 2014)](/assets/pdf/reviews/2014-juliusSB.pdf)', *Shakespeare Bulletin* 32, no. 4 (2014-12-05): 756–60, doi: [10.1353/shb.2014.0058](http://doi.org/10.1353/shb.2014.0058) 
+'[*Julius Caesar* (Back Room Shakespeare Project 2014)](/assets/pdf/reviews/2014-juliusSB.pdf)', *Shakespeare Bulletin* 32, no. 4 (2014-12-05): 756–60, doi: [10.1353/shb.2014.0058](http://doi.org/10.1353/shb.2014.0058)
 
 '[*Mankind* (Illinois Program in Medieval Studies 2013)](/assets/pdf/reviews/2013-mankindSB.pdf)', *Shakespeare Bulletin* 31, no. 3 (2013-09-11): 558–62, doi: [10.1353/shb.2013.0054](http://doi.org/10.1353/shb.2013.0054)
 
