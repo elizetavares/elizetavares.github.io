@@ -36,13 +36,13 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 ## Chapters
 
+'Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory', *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (under review)
+
+'Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage', *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (under review)
+
 'Alive in the (Early) Modern Repertory', [*Early Modern Liveness: Mediating Presence in Text, on Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman (forthcoming)
 
-'Playing Companies and Repertories', [*The Arden Handbook to Shakespeare and Early Modern Drama*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter (forthcoming)
-
-'Cham’s Beard and Tartar’s Bow: Staging Mongolia after the Elizabethan Repertory', *Reprints and Revivals of Renaissance Drama*, eds. E. Price and H. Newman (forthcoming)
-
-'Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage', *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (forthcoming)
+'[Playing Companies and Repertories](/assets/pdf/research/2023-playAH.pdf)', [*The Arden Handbook to Shakespeare and Early Modern Drama: Perspectives on Culture, Performance and Identity*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter, 109-27 (Bloomsbury, 2023), doi: [10.5040/9781350161887.ch-4.2](https://doi.org/10.5040/9781350161887.ch-4.2)
 
 '[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)', *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
 
@@ -52,7 +52,11 @@ with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shak
 * with L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance', *Shakespeare* (forthcoming)
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (2022-12-13)
-* with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022_IIRintro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-29, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
+* with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022_IIR_1_intro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-30, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
+* E. MacLeod, '["You shall see me do the Moor": The Blackfriars Children and the Performance of Race in *Poetaster*](/assets/pdf/research/2022_IIR_2_MacLeod.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 131-44, doi: [10.12745/et.25.2.4734](https://doi.org/10.12745/et.25.2.4734)
+* R. Barker, '[Birth of a Tragedy Queen: Richard Robinson and the Repertory of the King's Men, 1610-11](/assets/pdf/research/2022_IIR_3_Barker.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 145-56, doi: [10.12745/et.25.2.4748](http://doi.org/10.12745/et.25.2.4748)
+* P. Kirwan, '[Artist Development and Collective Therapy in the Repertory: The Case of *After Edward*](/assets/pdf/research/2022_IIR_4_Kirwan.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 157-72, doi: [10.12745/et.25.2.4733](http://doi.org/10.12745/et.25.2.4733)
+* C. Fallow, '[New Work In and Beyond Repertory at the Royal Shakespeare Company and Shakespeare’s Globe](/assets/pdf/research/2022_IIR_5_Fallow.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 173-85, doi: [10.12745/et.25.2.4739](http://doi.org/10.12745/et.25.2.4739)
 
 ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages](https://ijurca-pub.org/14/volume/11/issue/3/)', *International Journal of Undergraduate Research and Creative Activities* 11, no. 3 (2019), doi: [10.7710/263](http://doi.org/10.7710/263)
 
@@ -96,6 +100,8 @@ ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 ### Books
 
+'*What is a Playhouse? England at Play, 1520–1620* by C. Davies (Routledge 2022)', *Shakespeare Bulletin* 40, no. 4 (forthcoming)
+
 '[*Rethinking Theatrical Documents in Shakespeare’s England* edited by T. Stern (Bloomsbury 2020) & *Loss and the Literary Culture of Shakespeare’s Time* edited by R. Knutson, D. McInnis, and M. Steggle (Palgrave 2020)](/assets/pdf/reviews/2021-comboET.pdf)', *Early Theatre* 24, no. 1 (2021-06-30): 173–79, doi: [10.12745/et.24.1.4764](https://doi.org/10.12745/et.24.1.4764)
 
 '[*Shakespeare’s Lost Playhouse: Eleven Days at Newington Butts* by L. Johnson (Routledge 2017)](/assets/pdf/reviews/2018-johnsonSH.pdf)', *Shakespeare* 14, no. 2 (2018-04-09): 197–98, doi: [10.1080/17450918.2018.1447988](https://doi.org/10.1080/17450918.2018.1447988)
@@ -124,4 +130,4 @@ In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I c
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2022-11-14*
+*Updated 2023-01-02*
