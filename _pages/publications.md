@@ -15,9 +15,9 @@ My research focuses on the development of the repertory or “stock” system of
 
 ## Articles
 
-with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly* (forthcoming)
+with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly* (forthcoming, spring 2024)
 
-'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue on Props in Repertory, *Shakespeare* (forthcoming)
+'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (forthcoming, spring 2023)
 
 with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)', *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
@@ -40,16 +40,28 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 'Fistfights and Sacrifice: Troupe Dynamics, Transformation, and Shakespeare Offstage', *Slings & Arrows: Performing Shakespeare as Canada*, eds. K. Wright and D. Moore (under review)
 
-'Alive in the (Early) Modern Repertory', [*Early Modern Liveness: Mediating Presence in Text, on Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman (forthcoming)
+'[Alive in the (Early) Modern Repertory](/assets/pdf/research/2023-aliveAS.pdf)', [*Early Modern Liveness: Mediating Presence in Text, on Stage and Screen*](https://www.bloomsbury.com/uk/early-modern-liveness-9781350318472/), eds. D. Rosvally and D. Sherman, 111–44 (Bloomsbury, 2023-01-26), doi: [9781350318502.0013](https://doi.org/10.5040/9781350318502.0013)
 
-'[Playing Companies and Repertories](/assets/pdf/research/2023-playAH.pdf)', [*The Arden Handbook to Shakespeare and Early Modern Drama: Perspectives on Culture, Performance and Identity*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter, 109-27 (Bloomsbury, 2023), doi: [10.5040/9781350161887.ch-4.2](https://doi.org/10.5040/9781350161887.ch-4.2)
+'[Playing Companies and Repertories](/assets/pdf/research/2023-playAH.pdf)', [*The Arden Handbook to Shakespeare and Early Modern Drama: Perspectives on Culture, Performance and Identity*](https://www.bloomsbury.com/uk/arden-handbook-of-shakespeare-and-early-modern-drama-9781350161856/), eds. M. M. Dowd and T. Rutter, 109-27 (Bloomsbury, 2023-01-12), doi: [10.5040/9781350161887.ch-4.2](https://doi.org/10.5040/9781350161887.ch-4.2)
 
 '[Claire Kens Well: Appropriation and Itinerant Performance in *Outlander* Onscreen](/assets/pdf/research/2016-outlandCH.pdf)', *Outlander’s Sassenachs: Essays on Gender, Race, Orientation, and the Other in the Novels and Television Series*, ed. V. Frankel, 31-43 (McFarland & Company, 2016)
 
 ## Fora
 
-with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* (forthcoming)
-* with L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance', *Shakespeare* (forthcoming)
+with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (forthcoming, spring 2023)
+* E. E. Tavares, L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance'
+* Part One: Criticism
+    * H. Bachrach, '“What els do maskes, but maskers show”: Masked Ladies in Shakespeare’s Comedies'
+    * L. Johnson, 'The Nose Plays: Nasiform Negotiations at Newington Butts'
+    * J. M. Kuhn, 'Inimitable Rarities?: Feather Costumes, Indigenous Artistic Labor and Early Modern English Theater History'
+    * E. MacLeod, 'The Duke of Gloucester’s Sword: Prosthetic Props in the Repertory of Edmund Kean'
+    * E. E. Tavares, '“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory'
+* Part Two: Performance
+    * M. Chapman, 'Shakespeare for Everyone?: History, Dramaturgy, and the Black Flesh as Prop in Transracial Shakespeare'
+    * M. Snell, 'Performing Babies and the Properties of Race and Ethnicity'
+    * C. Phillips, with K. L. Bradley, V. Brown, L. Davis, K. Fischer, A. Gonzalez, J. B. Schwab, T. Storey, S. Stryker, 'The Dramaturgy of Ophelia’s Bouquet'
+* Part Three: Critical Debates
+    * S. Duncan, 'State of Play - Knowing what we are making: props, scholarship, and the pandemic'
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (2022-12-13)
 * with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022_IIR_1_intro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-30, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
