@@ -134,12 +134,12 @@ with H. Vincent, '[A Semi-Diplomatic Transcription of Selections from the John W
 
 ## Essays
 
-In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I co-led a "Writing for Popular Media" workshop at the annual meeting of the Shakespeare Association of America, hoping to give faculty space to develop pieces that showcase their research in popular venues. Overtime these pieces are finding homes, including
-* E. Zeman Kolkovich, "[How My Postpartum Guilt Was Healed by a 17th-Century Poet](https://nursingclio.org/2022/04/05/how-my-postpartum-guilt-was-healed-by-a-17th-century-poet/)," *Nursing Cleo* (2022-04-05)
-* J. Crawford, "[The First Commedian](https://lareviewofbooks.org/article/the-first-comedian/)," *Los Angeles Review of Books* (2022-11-09)
+In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I co-led a 'Writing for Popular Media' workshop at the annual meeting of the Shakespeare Association of America, hoping to give faculty space to develop pieces that showcase their research in popular venues. Overtime these pieces are finding homes, including
+* E. Zeman Kolkovich, '[How My Postpartum Guilt Was Healed by a 17th-Century Poet](https://nursingclio.org/2022/04/05/how-my-postpartum-guilt-was-healed-by-a-17th-century-poet/)', *Nursing Cleo* (2022-04-05)
+* J. Crawford, '[The First Commedian](https://lareviewofbooks.org/article/the-first-comedian/)', *Los Angeles Review of Books* (2022-11-09)
 
 '[Making the Covert Public](https://humanitiesforall.org/blog/making-the-covert-public)', *Humanities for All* blog, eds. M. May-Curry and Y. Oliver, National Humanities Alliance (2021-06-15)
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2023-01-02*
+*Updated 2023-02-04*
