@@ -9,7 +9,7 @@ toc_icon: "bookmark"
 toc_sticky: true
 ---
 
-My research focuses on the development of the repertory or “stock” system of playing: both the ways in which it conditioned the early modern theatre industry and its continued presence in theatre promotion and television writing. Discrete projects on the performance of race, collaborative economies, and climate illustrate how the repertory system mitigated financial risk while engendering innovation in the theatre — capitalizing on how the constitutive processes of reception and appropriation shape (early) modern habits of mind.
+My research focuses on the development of the repertory or 'stock' system of playing: both the ways in which it conditioned the early modern theatre industry and its continued presence in theatre promotion and television writing. Discrete projects on the performance of race, collaborative economies, and climate illustrate how the repertory system mitigated financial risk while engendering innovation in the theatre — capitalizing on how the constitutive processes of reception and appropriation shape (early) modern habits of mind.
 
 [Download CV](/assets/pdf/Tavares_CV.pdf){: .btn .btn--danger}
 
@@ -124,7 +124,7 @@ ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages]
 
 ## Reference
 
-with A. Morris and H. McNamee, 'Census of Medieval and Renaissance performance since January 2022], *Research on Medieval and Renaissance Drama* 60 (in preparation)
+with A. Morris and H. McNamee, 'Census of Medieval and Renaissance performance since January 2022', *Research on Medieval and Renaissance Drama* 60 (in preparation)
 
 with K. A. Thomas, '[Census of Medieval and Renaissance performance since January 2021](/assets/pdf/other/2021-censusRMRD.pdf)', *Research on Medieval and Renaissance Drama* 58 (2021-12-31): 79-106
 
@@ -136,7 +136,7 @@ with H. Vincent, '[A Semi-Diplomatic Transcription of Selections from the John W
 
 In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I co-led a 'Writing for Popular Media' workshop at the annual meeting of the Shakespeare Association of America, hoping to give faculty space to develop pieces that showcase their research in popular venues. Overtime these pieces are finding homes, including
 * E. Zeman Kolkovich, '[How My Postpartum Guilt Was Healed by a 17th-Century Poet](https://nursingclio.org/2022/04/05/how-my-postpartum-guilt-was-healed-by-a-17th-century-poet/)', *Nursing Cleo* (2022-04-05)
-* J. Crawford, '[The First Commedian](https://lareviewofbooks.org/article/the-first-comedian/)', *Los Angeles Review of Books* (2022-11-09)
+* J. Crawford, '[The First Comedian](https://lareviewofbooks.org/article/the-first-comedian/)', *Los Angeles Review of Books* (2022-11-09)
 
 '[Making the Covert Public](https://humanitiesforall.org/blog/making-the-covert-public)', *Humanities for All* blog, eds. M. May-Curry and Y. Oliver, National Humanities Alliance (2021-06-15)
 
