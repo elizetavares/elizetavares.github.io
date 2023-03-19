@@ -57,9 +57,9 @@ with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shak
     * E. MacLeod, '[The Duke of Gloucester’s Sword: Prosthetic Props in the Repertory of Edmund Kean](/assets/pdf/research/2023-shax-5-macleod.pdf)', *Shakespeare* 19, no. 1 (2023-03-13): 1-11, doi: [10.1080/17450918.2023.2183089](https://doi.org/10.1080/17450918.2023.2183089)
     * E. E. Tavares, '“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory'
 * Part Two: Performance
-    * M. Chapman, 'Shakespeare for Everyone?: History, Dramaturgy, and the Black Flesh as Prop in Transracial Shakespeare'
+    * M. Chapman, '[Shakespeare for Everyone? History, Dramaturgy, and the Black Flesh as Prop in Transracial Shakespeare](/assets/pdf/research/2023-shax-7-chapman.pdf)', *Shakespeare* 19, no. 1 (2023-03-16): 1-13, doi: [10.1080/17450918.2023.2183091](https://doi.org/10.1080/17450918.2023.2183091)
     * M. Snell, '[Performing Babies and the Properties of Race and Ethnicity](/assets/pdf/research/2023-shax-8-snell.pdf)', *Shakespeare* 19, no. 1 (2023-03-10): 1-15, doi: [10.1080/17450918.2023.2183092](https://doi.org/10.1080/17450918.2023.2183092)
-    * C. Phillips, with K. L. Bradley, V. Brown, L. Davis, K. Fischer, A. Gonzalez, J. B. Schwab, T. Storey, S. Stryker, 'The Dramaturgy of Ophelia’s Bouquet'
+    * C. Phillips, with K. L. Bradley, V. Brown, L. Davis, K. Fischer, A. Gonzalez, J. B. Schwab, T. Storey, S. Stryker, '[The Dramaturgy of Ophelia’s Bouquet](/assets/pdf/research/2023-shax-phillips.pdf)', *Shakespeare* 19, no. 1 (2023-03-17): 1-17, doi: [10.1080/17450918.2023.2183095](https://doi.org/10.1080/17450918.2023.2183095)
 * Part Three: Critical Debates
     * S. Duncan, 'State of Play - Knowing what we are making: props, scholarship, and the pandemic'
 
@@ -71,6 +71,10 @@ with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre*
 * C. Fallow, '[New Work In and Beyond Repertory at the Royal Shakespeare Company and Shakespeare’s Globe](/assets/pdf/research/2022-iir-5-fallow.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 173-85, doi: [10.12745/et.25.2.4739](http://doi.org/10.12745/et.25.2.4739)
 
 ed., '[Special Issue: Fight or Flyte - Pride and Masculinity in the Middle Ages](https://ijurca-pub.org/14/volume/11/issue/3/)', *International Journal of Undergraduate Research and Creative Activities* 11, no. 3 (2019), doi: [10.7710/263](http://doi.org/10.7710/263)
+
+## Edition
+
+ed., W. Shakespeare, *Troilus and Cressida*, Arden Shakespeare 4, general eds. P. Holland, Z. Lesser, and T. Stern (Bloomsbury, under contract)
 
 ## Reviews
 
@@ -142,4 +146,4 @@ In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I c
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2023-02-04*
+*Updated 2023-03-19*
