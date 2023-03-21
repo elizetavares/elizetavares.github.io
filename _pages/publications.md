@@ -59,9 +59,9 @@ with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shak
 * Part Two: Performance
     * M. Chapman, '[Shakespeare for Everyone? History, Dramaturgy, and the Black Flesh as Prop in Transracial Shakespeare](/assets/pdf/research/2023-shax-7-chapman.pdf)', *Shakespeare* 19, no. 1 (2023-03-16): 1-13, doi: [10.1080/17450918.2023.2183091](https://doi.org/10.1080/17450918.2023.2183091)
     * M. Snell, '[Performing Babies and the Properties of Race and Ethnicity](/assets/pdf/research/2023-shax-8-snell.pdf)', *Shakespeare* 19, no. 1 (2023-03-10): 1-15, doi: [10.1080/17450918.2023.2183092](https://doi.org/10.1080/17450918.2023.2183092)
-    * C. Phillips, with K. L. Bradley, V. Brown, L. Davis, K. Fischer, A. Gonzalez, J. B. Schwab, T. Storey, S. Stryker, '[The Dramaturgy of Ophelia’s Bouquet](/assets/pdf/research/2023-shax-phillips.pdf)', *Shakespeare* 19, no. 1 (2023-03-17): 1-17, doi: [10.1080/17450918.2023.2183095](https://doi.org/10.1080/17450918.2023.2183095)
+    * C. Phillips, with K. L. Bradley, V. Brown, L. Davis, K. Fischer, A. Gonzalez, J. B. Schwab, T. Storey, S. Stryker, '[The Dramaturgy of Ophelia’s Bouquet](/assets/pdf/research/2023-shax-9-phillips.pdf)', *Shakespeare* 19, no. 1 (2023-03-17): 1-17, doi: [10.1080/17450918.2023.2183095](https://doi.org/10.1080/17450918.2023.2183095)
 * Part Three: Critical Debates
-    * S. Duncan, 'State of Play - Knowing what we are making: props, scholarship, and the pandemic'
+    * S. Duncan, '[Knowing What we are Making: Props, Scholarship, and the Pandemic](/assets/pdf/research/2023-shax-10-duncan.pdf)', *Shakespeare* 19, no. 1 (2023-03-21): 1-17, doi: [10.1080/17450918.2023.2183094](https://doi.org/10.1080/17450918.2023.2183094)
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (2022-12-13)
 * with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022-iir-1-intro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-30, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
