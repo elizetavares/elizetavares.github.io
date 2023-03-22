@@ -17,7 +17,7 @@ My research focuses on the development of the repertory or 'stock' system of pla
 
 with D. Fallow, 'John Shakespeare’s Muckhill: Ecologies, Economies, and Biographies of Communal Waste in Stratford-upon-Avon, c. 1550–1600', *Shakespeare Quarterly* (forthcoming, spring 2024)
 
-'"On pleasures past, and dangers to ensue": Site-Specific Violence and the Post-Renovation Rose Repertory', Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (forthcoming, spring 2023)
+'[“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory](/assets/pdf/research/2023-shax-6-tavares.pdf)', Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (2023-03-22): 1-15, doi: [10.1080/17450918.2023.2183090](https://doi.org/10.1080/17450918.2023.2183090)
 
 with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.org/othellosyllabus-twitter-as-play/)', *Hybrid Pedagogy* (2020-09-04), doi: [10.17613/a9qz-e498](https://doi.org/10.17613/a9qz-e498)
 
@@ -55,7 +55,7 @@ with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shak
     * L. Johnson, '[The Nose Plays: Nasiform Negotiations at Newington Butts](/assets/pdf/research/2023-shax-3-johnson.pdf)', *Shakespeare* 19, no. 1 (2023-03-15): 1-14, doi: [10.1080/17450918.2023.2183086](https://doi.org/10.1080/17450918.2023.2183086)
     * J. M. Kuhn, 'Inimitable Rarities?: Feather Costumes, Indigenous Artistic Labor and Early Modern English Theater History'
     * E. MacLeod, '[The Duke of Gloucester’s Sword: Prosthetic Props in the Repertory of Edmund Kean](/assets/pdf/research/2023-shax-5-macleod.pdf)', *Shakespeare* 19, no. 1 (2023-03-13): 1-11, doi: [10.1080/17450918.2023.2183089](https://doi.org/10.1080/17450918.2023.2183089)
-    * E. E. Tavares, '“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory'
+    * E. E. Tavares, '[“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory](/assets/pdf/research/2023-shax-6-tavares.pdf)', *Shakespeare* 19, no. 1 (2023-03-22): 1-15, doi: [10.1080/17450918.2023.2183090](https://doi.org/10.1080/17450918.2023.2183090)
 * Part Two: Performance
     * M. Chapman, '[Shakespeare for Everyone? History, Dramaturgy, and the Black Flesh as Prop in Transracial Shakespeare](/assets/pdf/research/2023-shax-7-chapman.pdf)', *Shakespeare* 19, no. 1 (2023-03-16): 1-13, doi: [10.1080/17450918.2023.2183091](https://doi.org/10.1080/17450918.2023.2183091)
     * M. Snell, '[Performing Babies and the Properties of Race and Ethnicity](/assets/pdf/research/2023-shax-8-snell.pdf)', *Shakespeare* 19, no. 1 (2023-03-10): 1-15, doi: [10.1080/17450918.2023.2183092](https://doi.org/10.1080/17450918.2023.2183092)
