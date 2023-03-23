@@ -116,7 +116,7 @@ ed., W. Shakespeare, *Troilus and Cressida*, Arden Shakespeare 4, general eds. P
 
 ### Books
 
-'*What is a Playhouse? England at Play, 1520–1620* by C. Davies (Routledge 2022)', *Shakespeare Bulletin* 40, no. 4 (forthcoming)
+'[*What is a Playhouse? England at Play, 1520–1620* by C. Davies (Routledge 2022)](/assets/pdf/reviews/2022-daviesSB.pdf)', *Shakespeare Bulletin* 40, no. 4 (2023-03-23): 757–78, url: [muse.jhu.edu/article/885453](https://www.muse.jhu.edu/article/885453)  
 
 '[*Rethinking Theatrical Documents in Shakespeare’s England* edited by T. Stern (Bloomsbury 2020) & *Loss and the Literary Culture of Shakespeare’s Time* edited by R. Knutson, D. McInnis, and M. Steggle (Palgrave 2020)](/assets/pdf/reviews/2021-comboET.pdf)', *Early Theatre* 24, no. 1 (2021-06-30): 173–79, doi: [10.12745/et.24.1.4764](https://doi.org/10.12745/et.24.1.4764)
 
@@ -146,4 +146,4 @@ In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I c
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2023-03-19*
+*Updated 2023-03-23*

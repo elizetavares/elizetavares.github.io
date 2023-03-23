@@ -23,11 +23,19 @@ Bell, C., dissertation, committee member, PhD English with a concentration in Re
 
 Bird, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
+Çarkaci, S. E., thesis, committee member, MA English with a concentration in Renaissance Studies (in progress)
+
+Johnson, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
+
 Morris, A., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
 Pate, T., dissertation, committee member, PhD English with a concentration in Renaissance Studies, University of Alabama (in progress)
 
-Stewart, R., thesis, committee member, MA English with a concentration in Renaissance Studies, University of Alabama (in progress)
+Clark, A., "Proteantown (full-length play)", MFA Creative Writing, committee member (11 Apr 2023)
+
+Lilford, C., “‘A sad tale is best for winter’: The Use of Nature and Children in Adaptations of *The Winter’s Tale*,” MA English with a concentration in Renaissance Studies, committee member (2 Mar 2023)
+
+Stewart, R., "Women Wards and Enforced Marriage in Thomas Middleton’s *The Phoenix* and Ben Jonson’s *The Magnetic Lady*,” MA English with a concentration in Renaissance Studies, committee member (28 Feb 2023)
 
 Labe, K., “’How the fishes live in the sea’: Shakespeare’s Daughters and the Market of Romance,” committee member, MA English with a concentration in Renaissance Studies, University of Alabama (8 Mar 2022)
 
@@ -35,9 +43,9 @@ Fulton, C., “The Educational Visual ‘Language’ in Graphic Novel Adaptation
 
 ### Undergraduate
 
-Stewart, R., "'Their heirs may prosper while mine bleeds’: Legal Renege, Witnessing, and Child Corpses in *Two Lamentable Tragedies* and *A Yorkshire Tragedy*," chair, BA English Literature, Pacific University (2021)
-
 Giordano, M., "The Good King: Henry VII of England," second reader, [Medieval & Early Modern European Studies minor](https://memes.as.ua.edu/minor-requirements/), University of Alabama (2021)
+
+Stewart, R., "'Their heirs may prosper while mine bleeds’: Legal Renege, Witnessing, and Child Corpses in *Two Lamentable Tragedies* and *A Yorkshire Tragedy*," chair, BA English Literature, Pacific University (2021)
 
 Gauer, G., “‘Scandalously bifurcated garments’: Ecocriticism, American Pioneers, and novelizing Women of the West,” chair, BA English Literature, Pacific University (2020)
 
@@ -185,6 +193,10 @@ Dixon, E., Acting apprentice, [Original Practice Shakespeare Festival](https://w
 
 ### Research Assistants
 
+Çarkaci, S. E., [Alabama Shakespeare Project](https://alabamashax.org/), English Department, University of Alabama (Fall 22)
+
+Walsh, E., *SyllaBits*, [Collaborative Arts Research Initiative](https://cari.ua.edu/), University of Alabama (Fall 2022)
+
 Stewart, R., [Alabama Shakespeare Project](https://alabamashax.org/), English Department, University of Alabama (2021-22)
 
 Pate, T., *SyllaBits*, [Collaborative Arts Research Initiative](https://cari.ua.edu/), University of Alabama (Summer 2021)
@@ -212,4 +224,4 @@ Recent undergraduate advisees have gone on to pursue graduate studies in literat
 * University of Virginia
 * Vanderbilt University (Law)
 
-*Updated 2022-04-30*
+*Updated 2023-03-23*
