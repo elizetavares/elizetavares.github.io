@@ -49,11 +49,11 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 ## Fora
 
 with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (forthcoming, spring 2023)
-* E. E. Tavares, L. Johnson and E. MacLeod, 'Introduction: Properties of Matter and Performance'
+* E. E. Tavares, L. Johnson and E. MacLeod, '[Introduction: Properties of Matter and Performance](/assets/pdf/research/2023-shax-1.pdf)', *Shakespeare* 19, no. 1 (2023-03-24): 1-7, doi: [10.1080/17450918.2023.2183085](https://doi.org/10.1080/17450918.2023.2183085)
 * Part One: Criticism
     * H. Bachrach, '[“What els do maskes, but maskers show”: Masked Ladies in Shakespeare’s Comedies](/assets/pdf/research/2023-shax-2-bachrach.pdf)', *Shakespeare* 19, no. 1 (2023-03-15): 1-16, doi: [10.1080/17450918.2023.2183093](https://doi.org/10.1080/17450918.2023.2183093)
     * L. Johnson, '[The Nose Plays: Nasiform Negotiations at Newington Butts](/assets/pdf/research/2023-shax-3-johnson.pdf)', *Shakespeare* 19, no. 1 (2023-03-15): 1-14, doi: [10.1080/17450918.2023.2183086](https://doi.org/10.1080/17450918.2023.2183086)
-    * J. M. Kuhn, 'Inimitable Rarities?: Feather Costumes, Indigenous Artistic Labor and Early Modern English Theater History'
+    * J. M. Kuhn, '[Inimitable Rarities?: Feather Costumes, Indigenous Artistic Labor and Early Modern English Theater History](/assets/pdf/research/2023-shax-4-kuhn.pdf)', *Shakespeare* 19, no. 1 (2023-03-24): 1-16, doi: [10.1080/17450918.2023.2183087](https://doi.org/10.1080/17450918.2023.2183087)
     * E. MacLeod, '[The Duke of Gloucester’s Sword: Prosthetic Props in the Repertory of Edmund Kean](/assets/pdf/research/2023-shax-5-macleod.pdf)', *Shakespeare* 19, no. 1 (2023-03-13): 1-11, doi: [10.1080/17450918.2023.2183089](https://doi.org/10.1080/17450918.2023.2183089)
     * E. E. Tavares, '[“On pleasures past, and dangers to ensue”: Site-Specific Violence and the Post-Renovation Rose Repertory](/assets/pdf/research/2023-shax-6-tavares.pdf)', *Shakespeare* 19, no. 1 (2023-03-22): 1-15, doi: [10.1080/17450918.2023.2183090](https://doi.org/10.1080/17450918.2023.2183090)
 * Part Two: Performance
@@ -64,7 +64,7 @@ with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shak
     * S. Duncan, '[Knowing What we are Making: Props, Scholarship, and the Pandemic](/assets/pdf/research/2023-shax-10-duncan.pdf)', *Shakespeare* 19, no. 1 (2023-03-21): 1-17, doi: [10.1080/17450918.2023.2183094](https://doi.org/10.1080/17450918.2023.2183094)
 
 with L. Johnson, eds., 'Issues in Review: Playing in Repertory', *Early Theatre* 25, no. 2 (2022-12-13)
-* with L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022-iir-1-intro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-30, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
+* E. E. Tavares and L. Johnson, '[Introduction: Repertory, Economy, Dramaturgy](/assets/pdf/research/2022-iir-1-intro.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 115-30, doi: [10.12745/et.25.2.4732](http://doi.org/10.12745/et.25.2.4732)
 * E. MacLeod, '["You shall see me do the Moor": The Blackfriars Children and the Performance of Race in *Poetaster*](/assets/pdf/research/2022-iir-2-macleod.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 131-44, doi: [10.12745/et.25.2.4734](https://doi.org/10.12745/et.25.2.4734)
 * R. Barker, '[Birth of a Tragedy Queen: Richard Robinson and the Repertory of the King's Men, 1610-11](/assets/pdf/research/2022-iir-3-barker.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 145-56, doi: [10.12745/et.25.2.4748](http://doi.org/10.12745/et.25.2.4748)
 * P. Kirwan, '[Artist Development and Collective Therapy in the Repertory: The Case of *After Edward*](/assets/pdf/research/2022-iir-4-kirwan.pdf)', *Early Theatre* 25, no. 2 (2022-12-13): 157-72, doi: [10.12745/et.25.2.4733](http://doi.org/10.12745/et.25.2.4733)
