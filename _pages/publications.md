@@ -48,7 +48,7 @@ with S. Ballou, '[The #OthelloSyllabus: Twitter as Play](https://hybridpedagogy.
 
 ## Fora
 
-with L. Johnson and E. MacLeod, eds., Special Issue on Props in Repertory, *Shakespeare* 19, no. 1 (forthcoming, spring 2023)
+with L. Johnson and E. MacLeod, eds., Special Issue on Props and the Early Modern Repertory, *Shakespeare* 19, no. 1 (2023-04-01): 1-141, url: [tandfonline.com/toc/rshk20/19/1](https://www.tandfonline.com/toc/rshk20/19/1?nav=tocList)
 * E. E. Tavares, L. Johnson and E. MacLeod, '[Introduction: Properties of Matter and Performance](/assets/pdf/research/2023-shax-1.pdf)', *Shakespeare* 19, no. 1 (2023-03-24): 1-7, doi: [10.1080/17450918.2023.2183085](https://doi.org/10.1080/17450918.2023.2183085)
 * Part One: Criticism
     * H. Bachrach, '[“What els do maskes, but maskers show”: Masked Ladies in Shakespeare’s Comedies](/assets/pdf/research/2023-shax-2-bachrach.pdf)', *Shakespeare* 19, no. 1 (2023-03-15): 1-16, doi: [10.1080/17450918.2023.2183093](https://doi.org/10.1080/17450918.2023.2183093)
@@ -146,4 +146,4 @@ In 2021, [Daniel Pollack-Pelzner](https://www.danielpollackpelzner.com/) and I c
 
 '[Genre and the Elizabethan Troupe](https://beforeshakespeare.com/2017/05/11/genre-and-the-elizabethan-troupe/)', *Before Shakespeare: The Beginnings of London Commercial Theatre 1565–1595 blog*, eds. C. Davies, A. Kesson, and L. Munro (2017-05-11)
 
-*Updated 2023-03-23*
+*Updated 2023-04-04*
