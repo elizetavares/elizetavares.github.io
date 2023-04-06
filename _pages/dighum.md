@@ -24,7 +24,24 @@ Digital Humanities pedagogy underpins my teaching, as I find it helps introduce 
 
 A growing group of writers, self-styled New Formalists including the likes of A. E. Stallings and Tyehimba Jess, are also driving a renewed interest in sonnets and other closed forms requiring the ability to scan. From the inability to use this hands-on strategy in the classroom due to the coronavirus global pandemic as well as the need to teach classical poetic forms with a diversity of poetic voices arose the conception of this mobile game. The web-based apparatus is under development by a team of advanced undergraduates and Computer Science graduate students, with methodology and pedagogy research assistance by graduate students in English. 
 
-This project is in progress with the proposed launch of a beta version in spring of 2022. 
+This project is in progress with the proposed launch of a beta version in spring 2024. 
+
+## Ripple Arts Review
+*Department of English, University of Alabama*
+
+**url** [ripple.ua.edu](https://ripple.ua.edu/)
+
+*Ripple Arts Review* is a digital magazine for arts criticism and journalism in West Alabama. A student-led, -written, and designed publication, *Ripple* aims to publish critical work that contributes to the cultural dialogue of the area and serve as a digital collective space for the local arts community. First launched in spring 2023 as a reimagining of a previous arts magazine at The University of Alabama, [*Vanishing Sights*](https://vanishingsights.wordpress.com/) (2010–15), it is one of [many](https://english.ua.edu/mission/publications/) English department initiatives to provide graduate and undergraduate students professional publication opportunities.
+
+As a teaching magazine centering student writers as developing authors and critics, *Ripple* employs a collaborative, double-open peer review process. Each submission is reviewed by two current section editors before moving on to a final review by the editor-in-chief and a faculty advisor — a process modeled after that used by the academic journal, [*Hybrid Pedagogy*](https://hybridpedagogy.org/double-open-peer-review/). *Ripple* uses the Chicago Manual of Style, 17th edition, supplemented with an in-house editorial guide informed by arts reviewing best practices, accessible web design, and the following resources.
+* [American Theatre Critics Association Resource Hub](https://americantheatrecritics.org/belonging-equity-inclusion-diversity-resource-hub/)
+* [APA Guidelines for Non-Sexist Use of Language](https://www.apaonline.org/page/nonsexist)
+* [Consciousness Style Guide](https://consciousstyleguide.com/)
+* [GLAAD Media Reference Guide](https://www.glaad.org/reference/), 11th edition
+* [People-First Language Usage Guidelines](https://odr.dc.gov/page/people-first-language)
+* University of Alabama [Style Guide](https://stratcomm.ua.edu/communications/styleguide/) and [Brand Standards](https://comm.sa.ua.edu/design/ua-brand-standards/)
+
+This is an on-going initiative. Interested in being a fellow faculty editor or a contributor? [Get in touch](mailto:eetavares@ua.edu)!
 
 ## Aphra Behn: The Podcast
 *Alabama Digital Humanities Center, University of Alabama*
