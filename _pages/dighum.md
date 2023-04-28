@@ -73,3 +73,10 @@ This final performance or Twitter-play, modelled after the Royal Shakespeare Com
 Designed for a introductory course on film, this scaffolded set of assignments relies on the digital tool *Omeka* to help students collect, organize, and analyze primary artifacts to support their claims. Provided are the prompts, along with a list of final projects - virtual mini-museums illustrating the impact of a specific documentary alongside a digital docent guide.
 
 The collaboration between the instructors and the digital library staff served as case studies for [several articles](https://elizabethetavares.com/omeka/#scholarship) in library science.
+
+## BiteThumbnails: A Playgoer's Notebook
+*Reviews blog*
+
+**url** [bitethumbnails.com](http://bitethumbnails.com/)
+
+Between 2010 and 2018, I wrote 80 reviews of live performances, focusing on Shakespeare, from Chicago to New York and Portland, Oregon. There were another three dozen television reviews, more than a dozen film reviews, and nearly as many essays on casting practices, gender parity in performance, and the shifting landscape of early theatre archaeology. Much of what first entered the world in these posts has now been published, or paved the pathway to new work, including [this ethnography](http://elizabethetavares.com/assets/pdf/research/2023-aliveAS.pdf) of the Original Practice Shakespeare Festival, and the online arts reviewing magazine, *Ripple Arts Review*. Officially sunset April 2023.

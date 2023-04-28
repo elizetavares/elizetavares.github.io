@@ -8,8 +8,6 @@ main:
     url: /dramaturgy/
   - title: "Outreach"
     url: /outreach/
-  - title: "Blog"
-    url: "http://bitethumbnails.com/"
   - title: "CV"
     url: /assets/pdf/Tavares_CV.pdf
   # - title: "Sitemap"
